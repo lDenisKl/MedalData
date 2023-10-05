@@ -14,7 +14,7 @@
     "Name": "Металлические медали",
     "Details": "Унифицированные медали в комплекте с лентами и вашей гравировкой.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/metalmedal1.jpg",
-    "Price": "от 190 ₽"
+    "Price": "от 190 ₽",
 
     "ChangeForm": 0,
     "ChangeAvers": 1,
@@ -25,7 +25,7 @@
     "Name": "Акриловые статуэтки",
     "Details": "Материал статуэтки: орг. стекло + металлизированный пластик.\nУнифицированные статуэтка с вашим текстом на обратной стороне.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/cubok1.jpg",
-    "Price": "от 599 ₽"
+    "Price": "от 599 ₽",
 
     "ChangeForm": 1,
     "ChangeAvers": 0,
@@ -36,7 +36,7 @@
     "Name": "Тест",
     "Details": "Что писать?",
     "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNio5SAYRWFrvWB9w3jv3k97xHl5GJyAFyNRXKKeEnvA7x19mBZ-RRP5d-zs7GKLjH_IkRSs5luAEfAzKJ7W_2apRjJJA3EFvIl6yVq8w3eSlSxGta_XvH8T6kHnYDaZJhqOYYKwBgda19MXFNzg1vJOI1WdTouuVIkYArOiBJ1m2VwqpadDUqbJNwnQ/s1080/csharp-dotnet-maui-app.png",
-    "Price": "бесценно"
+    "Price": "бесценно",
 
     "ChangeForm": 1,
     "ChangeAvers": 1,
