@@ -8,7 +8,7 @@
     "ChangeAvers": 0,
     "ChangeRevers": 1,
     "AddText": 1,
-    "PossibleForms": "2"
+    "PossibleForms": [1,2]
 
   },
   {
@@ -20,7 +20,7 @@
     "ChangeAvers": 1,
     "ChangeRevers": 0,
     "AddText": 1,
-    "PossibleForms": "2|3"
+    "PossibleForms": [ 2, 3]
   },
   {
     "Name": "Акриловые статуэтки",
@@ -31,7 +31,7 @@
     "ChangeAvers": 0,
     "ChangeRevers": 0,
     "AddText": 1,
-    "PossibleForms": "1|4"
+    "PossibleForms": [ 1, 2 ]
   },
   {
     "Name": "Тест",
@@ -42,6 +42,6 @@
     "ChangeAvers": 1,
     "ChangeRevers": 1,
     "AddText": 1,
-    "PossibleForms": "1|2|3"
+    "PossibleForms": [ 1, 2 ,3]
   }
 ]
