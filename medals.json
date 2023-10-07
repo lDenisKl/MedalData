@@ -8,7 +8,13 @@
     "ChangeAvers": 0,
     "ChangeRevers": 1,
     "AddText": 1,
-    "PossibleForms": [1,2]
+    "PossibleForms": [
+      {
+        "Name": "Квадратная",
+        "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/circle.png",
+        "PossibleAvers": [ 1, 2 ]
+      }
+    ]
 
   },
   {
@@ -20,7 +26,13 @@
     "ChangeAvers": 1,
     "ChangeRevers": 0,
     "AddText": 1,
-    "PossibleForms": [ 2, 3]
+    "PossibleForms": [
+      {
+        "Name": "Квадратная",
+        "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/circle.png",
+        "PossibleAvers": [ 1, 2 ]
+      }
+    ]
   },
   {
     "Name": "Акриловые статуэтки",
@@ -31,7 +43,13 @@
     "ChangeAvers": 0,
     "ChangeRevers": 0,
     "AddText": 1,
-    "PossibleForms": [ 1, 2 ]
+    "PossibleForms": [
+      {
+        "Name": "Квадратная",
+        "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/circle.png",
+        "PossibleAvers": [ 1, 2 ]
+      }
+    ]
   },
   {
     "Name": "Тест",
@@ -42,6 +60,12 @@
     "ChangeAvers": 1,
     "ChangeRevers": 1,
     "AddText": 1,
-    "PossibleForms": [ 1, 2 ,3]
+    "PossibleForms": [
+      {
+        "Name": "Квадратная",
+        "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/circle.png",
+        "PossibleAvers": [1,2]
+      }
+    ]
   }
 ]
