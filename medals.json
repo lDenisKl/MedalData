@@ -20,7 +20,7 @@
     "ChangeAvers": 1,
     "ChangeRevers": 0,
     "AddText": 1,
-    "PossibleForms": "3, 1, 2"
+    "PossibleForms": "2|3"
   },
   {
     "Name": "Акриловые статуэтки",
@@ -31,7 +31,7 @@
     "ChangeAvers": 0,
     "ChangeRevers": 0,
     "AddText": 1,
-    "PossibleForms": "4, 1"
+    "PossibleForms": "1|4"
   },
   {
     "Name": "Тест",
@@ -42,6 +42,6 @@
     "ChangeAvers": 1,
     "ChangeRevers": 1,
     "AddText": 1,
-    "PossibleForms": "2, 1, 2, 5"
+    "PossibleForms": "1|2|3"
   }
 ]
