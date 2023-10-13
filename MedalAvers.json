@@ -1,21 +1,21 @@
 [
   {
     "AversName": "Мяч",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/circle.png",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ballAvers.jpg",
     "PossibleEngraving": [ 1, 2 ],
     "CanAddTitle": false,
-    "MaxLength":  10
+    "MaxLength": 10
   },
   {
     "AversName": "Щит",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/square.png",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/shield.png",
     "PossibleEngraving": [ 1, 2 ],
     "CanAddTitle": false,
     "MaxLength": 10
   },
   {
     "AversName": "Машина",
-    "Image": "https://tipik.ru/wp-content/uploads/2019/08/%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D1%80-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B-016.jpg",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/car.jpg",
     "PossibleEngraving": [ 1, 2 ],
     "CanAddTitle": false,
     "MaxLength": 10
