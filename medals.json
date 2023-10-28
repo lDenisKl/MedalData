@@ -8,7 +8,8 @@
     "ChangeAvers": 0,
     "ChangeRevers": 1,
     "AddText": 1,
-    "PossibleForms": [1,2]
+    "PossibleForms": [ 1, 2 ],
+    "PossibleTapes": [ 1, 2 ,3,4]
 
   },
   {
@@ -20,7 +21,8 @@
     "ChangeAvers": 1,
     "ChangeRevers": 0,
     "AddText": 1,
-    "PossibleForms": [ 1, 2 ]
+    "PossibleForms": [ 1, 2 ],
+    "PossibleTapes": [ 1, 2, 3, 4 ]
   },
   {
     "Name": "Акриловые статуэтки",
@@ -42,6 +44,7 @@
     "ChangeAvers": 1,
     "ChangeRevers": 1,
     "AddText": 1,
-    "PossibleForms": [ 2, 3 ]
+    "PossibleForms": [ 2, 3 ],
+    "PossibleTapes": [ 1,  4 ]
   }
 ]
