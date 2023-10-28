@@ -1,23 +1,37 @@
 [
   {
-    "AversName": "Мяч",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ballAvers.jpg",
-    "PossibleEngraving": [ 1, 2 ],
-    "CanAddTitle": false,
-    "MaxLength": 10
+    "TapeName": "Триколор",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/1.jpg",
+    "Design": false,
+    "Width": 25,
+    "Price": 10
   },
   {
-    "AversName": "Щит",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/shield.png",
-    "PossibleEngraving": [ 1, 2 ],
-    "CanAddTitle": false,
-    "MaxLength": 10
+    "TapeName": "Репсовая",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/2.jpg",
+    "Design": false,
+    "Width": 15,
+    "Price": 0
   },
   {
-    "AversName": "Машина",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/car.jpg",
-    "PossibleEngraving": [ 1, 2 ],
-    "CanAddTitle": false,
-    "MaxLength": 10
+    "TapeName": "Репсовая с изображением",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/3.jpg",
+    "Design": true,
+    "Width": 25,
+    "Price": 60
+  },
+  {
+    "TapeName": "Сублимационная с изображением односторонняя",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/4.jpg",
+    "Design": true,
+    "Price": 70,
+    "Width": 25
+  },
+  {
+    "TapeName": "Сублимационная с изображением двухсторонняя",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/4.jpg",
+    "Design": true,
+    "Width": 25,
+    "Price": 120
   }
 ]
