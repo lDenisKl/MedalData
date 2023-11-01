@@ -44,7 +44,7 @@
     "ChangeAvers": 1,
     "ChangeRevers": 1,
     "AddText": 1,
-    "PossibleForms": [ 2, 3 ],
+    "PossibleForms": [ ],
     "PossibleTapes": [ 1,  4 ]
   }
 ]
