@@ -4,12 +4,9 @@
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/%D0%90%D0%BA%D1%80%D0%B8%D0%BB1.jpg",
     "Price": "От 130 ₽",
-    "ChangeForm": 1,
-    "ChangeAvers": 0,
-    "ChangeRevers": 1,
-    "AddText": 1,
+    "PossibleAvers": [],
     "PossibleForms": [ 1, 2 ],
-    "PossibleTapes": [ 1, 2 ,3,4]
+    "PossibleTapes": [ 1, 2, 3, 4 ]
 
   },
   {
@@ -17,10 +14,7 @@
     "Details": "Унифицированные медали в комплекте с лентами и вашей гравировкой.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/metalmedal1.jpg",
     "Price": "от 190 ₽",
-    "ChangeForm": 0,
-    "ChangeAvers": 1,
-    "ChangeRevers": 0,
-    "AddText": 1,
+    "PossibleAvers": [],
     "PossibleForms": [ 1, 2 ],
     "PossibleTapes": [ 1, 2, 3, 4 ]
   },
@@ -29,22 +23,17 @@
     "Details": "Материал статуэтки: орг. стекло + металлизированный пластик.\nУнифицированные статуэтка с вашим текстом на обратной стороне.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/cubok1.jpg",
     "Price": "от 599 ₽",
-    "ChangeForm": 1,
-    "ChangeAvers": 0,
-    "ChangeRevers": 0,
-    "AddText": 1,
-    "PossibleForms": [2,3]
+    "PossibleAvers": [],
+    "PossibleForms": [ 2, 3 ],
+    "PossibleTapes": []
   },
   {
     "Name": "Тест",
     "Details": "Что писать?",
     "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNio5SAYRWFrvWB9w3jv3k97xHl5GJyAFyNRXKKeEnvA7x19mBZ-RRP5d-zs7GKLjH_IkRSs5luAEfAzKJ7W_2apRjJJA3EFvIl6yVq8w3eSlSxGta_XvH8T6kHnYDaZJhqOYYKwBgda19MXFNzg1vJOI1WdTouuVIkYArOiBJ1m2VwqpadDUqbJNwnQ/s1080/csharp-dotnet-maui-app.png",
     "Price": "бесценно",
-    "ChangeForm": 1,
-    "ChangeAvers": 1,
-    "ChangeRevers": 1,
-    "AddText": 1,
-    "PossibleForms": [ ],
-    "PossibleTapes": [ 1,  4 ]
+    "PossibleAvers": [ 1, 2, 3 ],
+    "PossibleForms": [],
+    "PossibleTapes": [ 1, 4 ]
   }
 ]
