@@ -1,18 +1,8 @@
 [
+  
   {
-    "FormName": "Квадратная",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/circle.png",
-  },
-  {
-    "FormName": "Круглая",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/square.png",
-  },
-  {
-    "FormName": "Звезда",
-    "Image": "https://tipik.ru/wp-content/uploads/2019/08/%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D1%80-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B-016.jpg",
-  },
-  {
-    "FormName": "Для Унифицированной медали 1",
-    "Image": "",
+    "Id": 1,
+    "FormName": "AkrilUnif1Form",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/AkrilUnif1Form.png"
   }
 ]

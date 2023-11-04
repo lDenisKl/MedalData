@@ -1,5 +1,6 @@
 [
   {
+    "Id": 1,
     "TapeName": "Триколор",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/1.jpg",
     "Design": false,
@@ -7,6 +8,7 @@
     "Price": 10
   },
   {
+    "Id": 2,
     "TapeName": "Репсовая",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/2.jpg",
     "Design": false,
@@ -14,6 +16,7 @@
     "Price": 0
   },
   {
+    "Id": 3,
     "TapeName": "Репсовая с изображением",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/3.jpg",
     "Design": true,
@@ -21,6 +24,7 @@
     "Price": 60
   },
   {
+    "Id": 4,
     "TapeName": "Сублимационная с изображением односторонняя",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/4.jpg",
     "Design": true,
@@ -28,6 +32,7 @@
     "Width": 25
   },
   {
+    "Id": 5,
     "TapeName": "Сублимационная с изображением двухсторонняя",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/4.jpg",
     "Design": true,
