@@ -4,7 +4,7 @@
     "Name": "Унифицированные акриловые медали 1",
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/AkrilUnif1.png",
-    "Price": 130,
+    "Price": "130",
     "PossibleSizes": [ 65 ],
     "PossibleTapes": [ 2 ],
     "PossibleForms": [ 4 ],
