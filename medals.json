@@ -10,10 +10,10 @@
     "PossibleFormGraving": [ 1 ],
     "PossibleAvers": [ 1 ],
     "PossibleAversGraving": [ 1 ],
-    "AversTitleLength": [ 0 ],
+    "AversTitle": false,
     "PossibleRevers": [ 1 ],
     "PossibleReversGraving": [ 1 ],
-    "ReversTitleLength": [ 7, 9, 10, 9, 7 ],
+    "ReversTitle": true,
     "FontSize": 14
   }
 ]
