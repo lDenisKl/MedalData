@@ -5,7 +5,7 @@
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/1.jpg",
     "Design": false,
     "Width": 25,
-    "Price": "+10₽"
+    "Price": 10
   },
   {
     "Id": 2,
@@ -13,7 +13,7 @@
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/2.jpg",
     "Design": false,
     "Width": 15,
-    "Price": "+0₽"
+    "Price": 0
   },
   {
     "Id": 3,
@@ -21,14 +21,14 @@
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/3.jpg",
     "Design": true,
     "Width": 25,
-    "Price": "+60₽"
+    "Price": 60
   },
   {
     "Id": 4,
     "TapeName": "Сублимационная с изображением односторонняя",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/4.jpg",
     "Design": true,
-    "Price": "+70₽",
+    "Price": 70,
     "Width": 25
   },
   {
@@ -37,6 +37,6 @@
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/4.jpg",
     "Design": true,
     "Width": 25,
-    "Price": "+120₽"
+    "Price": 120
   }
 ]
