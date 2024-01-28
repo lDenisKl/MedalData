@@ -1,7 +1,7 @@
 [
   {
     "Id": 1,
-    "Name": "Унифицированные акриловые медали 1",
+    "Name": "WB01",
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/AkrilUnif1.png",
     "PossibleSizes": [ 65 ],
