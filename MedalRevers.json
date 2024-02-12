@@ -4,5 +4,11 @@
     "ReversName": "WB01Revers",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01Revers(1.png"
+  },
+  {
+    "Id": 100,
+    "ReversName": "empty",
+    "Price": 0,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/mt.png"
   }
 ]
