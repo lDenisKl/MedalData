@@ -4,6 +4,12 @@
     "Id": 1,
     "FormName": "WB01Form",
     "Price": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01Form.jpg"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01Form((.jpg"
+  },
+  {
+    "Id": 2,
+    "FormName": "WB01metalForm",
+    "Price": 0,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalForm(1.png"
   }
 ]

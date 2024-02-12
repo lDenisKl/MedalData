@@ -3,6 +3,12 @@
     "Id": 1,
     "FormGravingName": "WB01FormGraving",
     "Price": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01FormGraving.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01FormGraving((.png"
+  },
+  {
+    "Id": 2,
+    "FormGravingName": "WB01metalFormGraving",
+    "Price": 0,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalFormGraving((.png"
   }
 ]

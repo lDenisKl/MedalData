@@ -4,5 +4,11 @@
     "AversGravingName": "WB01AversGraving",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01AversGraving(1.png"
+  },
+  {
+    "Id": 2,
+    "AversGravingName": "WB01metalAversGraving",
+    "Price": 0,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalAversGraving(1.png"
   }
 ]
