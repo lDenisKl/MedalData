@@ -10,5 +10,11 @@
     "AversName": "empty",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/mt.png"
+  },
+  {
+    "Id": 3,
+    "AversName": "WB01statueAvers",
+    "Price": 0,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueAvers(1.png"
   }
 ]
