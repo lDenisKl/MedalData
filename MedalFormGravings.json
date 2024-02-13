@@ -10,5 +10,11 @@
     "FormGravingName": "WB01metalFormGraving",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalFormGraving((.png"
+  },
+  {
+    "Id": 3,
+    "FormGravingName": "WB01statueFormGraving",
+    "Price": 0,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueFormGraving((.png"
   }
 ]
