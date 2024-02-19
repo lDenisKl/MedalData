@@ -1,11 +1,9 @@
 [
   {
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/showboard1.png"
-
-  },
-  {
-
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/running2.png"
+    "Urls": [
+      "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/showboard1.png",
+      "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/running2.png"
+    ]
 
   }
 ]
