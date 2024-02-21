@@ -1,49 +1,49 @@
 [
   {
     "Id": 1,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/basket1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/basket11.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 2,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/boxing1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/boxing11.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 3,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/cycling1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/cycling11.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 4,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/football1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/football11.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 5,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/gymnast1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/gymnast11.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 6,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/gymnast2.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/gymnast12.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 7,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/iceskating1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/iceskating11.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 8,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/volley1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/volley11.png",
     "MinScale": 1,
     "MaxScale": 2
   }
