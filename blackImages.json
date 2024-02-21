@@ -1,7 +1,7 @@
 [
   {
-    "Id" :  1,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/basketball1.png",
+    "Id": 1,
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/basket1.png",
     "MinScale": 1,
     "MaxScale": 2
   },
@@ -19,25 +19,31 @@
   },
   {
     "Id": 4,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/gymnastics1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/football1.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 5,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/gymnastiks2.png",
-    "MinScale": 1.5,
-    "MaxScale": 2.5
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/gymnast1.png",
+    "MinScale": 1,
+    "MaxScale": 2
   },
   {
     "Id": 6,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/iceskating1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/gymnast2.png",
     "MinScale": 1,
     "MaxScale": 2
   },
   {
     "Id": 7,
-    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/volleyball1.png",
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/iceskating1.png",
+    "MinScale": 1,
+    "MaxScale": 2
+  },
+  {
+    "Id": 8,
+    "Url": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/ObjImages/volley1.png",
     "MinScale": 1,
     "MaxScale": 2
   }
