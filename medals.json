@@ -4,6 +4,7 @@
     "Name": "WB01",
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01(1.png",
+    "PossibleImgs": [ 1,2,3,4,5,6,7 ],
     "PossibleTapes": [ 2 ],
     "PossibleForms": [ 1 ],
     "PossibleFormGraving": [ 1 ],
