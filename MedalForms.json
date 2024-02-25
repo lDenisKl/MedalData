@@ -8,12 +8,18 @@
   },
   {
     "Id": 2,
+    "FormName": "WB0125Form",
+    "Price": 0,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB0125Form((.jpg"
+  },
+  {
+    "Id": 3,
     "FormName": "WB01metalForm",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalForm(1.png"
   },
   {
-    "Id": 3,
+    "Id": 4,
     "FormName": "WB01statueForm",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueForm((.png"
