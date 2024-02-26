@@ -2,7 +2,7 @@
 
   {
     "Id": 1,
-    "FormName": "WB01Form",
+    "Name": "WB01Form",
     "Price": 0,
     "Multiplier": 1,
     "MinFontSize": 23,
@@ -12,7 +12,7 @@
   },
   {
     "Id": 2,
-    "FormName": "WB0125Form",
+    "Name": "WB0125Form",
     "Price": 0,
     "Multiplier": 1,
     "MinFontSize": 23,
@@ -22,7 +22,7 @@
   },
   {
     "Id": 3,
-    "FormName": "WB01metalForm",
+    "Name": "WB01metalForm",
     "Price": 0,
     "Multiplier": 1,
     "MinFontSize": 23,
@@ -32,7 +32,7 @@
   },
   {
     "Id": 4,
-    "FormName": "WB01metal25Form",
+    "Name": "WB01metal25Form",
     "Price": 0,
     "Multiplier": 1,
     "MinFontSize": 23,
@@ -43,7 +43,7 @@
 
   {
     "Id": 5,
-    "FormName": "WB01metalFormBig",
+    "Name": "WB01metalFormBig",
     "Price": 0,
     "Multiplier": 1,
     "MinFontSize": 23,
@@ -54,7 +54,7 @@
 
   {
     "Id": 6,
-    "FormName": "WB01metal25FormBig",
+    "Name": "WB01metal25FormBig",
     "Price": 0,
     "Multiplier": 1,
     "MinFontSize": 23,
