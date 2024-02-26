@@ -1,0 +1,28 @@
+[
+
+  {
+    "Id": 1,
+    "MedalId": 1,
+    "Size": "60x60",
+    "PossibleForms": [ 1, 2 ]
+  },
+  {
+    "Id": 2,
+    "MedalId": 2,
+    "Size": "60x60",
+    "PossibleForms": [3,4]
+  },
+  {
+    "Id": 3,
+    "MedalId": 2,
+    "Size": "80x80",
+    "PossibleForms": [5,6]
+  },
+  {
+    "Id": 4,
+    "MedalId": 3,
+    "Size": "180x180",
+    "PossibleForms": [7]
+  }
+
+]
