@@ -1,19 +1,19 @@
 [
   {
     "Id": 1,
-    "ReversGravingName": "WB01ReversGraving",
+    "Name": "WB01ReversGraving",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01ReversGraving.png"
   },
   {
     "Id": 2,
-    "ReversGravingName": "WB01metalReversGraving",
+    "Name": "WB01metalReversGraving",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalReversGraving.png"
   },
   {
     "Id": 3,
-    "ReversGravingName": "WB01statueReversGraving",
+    "Name": "WB01statueReversGraving",
     "Price": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueReversGraving.png"
   }
