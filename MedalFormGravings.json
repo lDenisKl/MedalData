@@ -1,20 +1,30 @@
 [
   {
     "Id": 1,
-    "FormGravingName": "WB01FormGraving",
+    "FormGravingName": "WB01FormGraving15",
     "Price": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01FormGraving((.png"
+    "ForWhatForm": 1,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01FormGraving15((.png"
   },
   {
     "Id": 2,
-    "FormGravingName": "WB01metalFormGraving",
+    "FormGravingName": "WB01FormGraving25",
     "Price": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalFormGraving((.png"
+    "ForWhatForm": 2,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01FormGraving25((.png"
   },
   {
     "Id": 3,
+    "FormGravingName": "WB01metalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 0,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalFormGraving((.png"
+  },
+  {
+    "Id": 4,
     "FormGravingName": "WB01statueFormGraving",
     "Price": 0,
+    "ForWhatForm": 0,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueFormGraving((.png"
   }
 ]

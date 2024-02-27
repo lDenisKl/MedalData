@@ -1,20 +1,30 @@
 [
   {
     "Id": 1,
-    "AversName": "WB01Avers",
+    "AversName": "WB01Avers15",
     "Price": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01Avers(1.png"
+    "ForWhatForm": 1,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01Avers15(1.png"
   },
   {
     "Id": 2,
-    "AversName": "empty",
+    "AversName": "WB01Avers25",
     "Price": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/mt.png"
+    "ForWhatForm": 2,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01Avers25(1.png"
   },
   {
     "Id": 3,
     "AversName": "WB01statueAvers",
     "Price": 0,
+    "ForWhatForm": null,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueAvers(1.png"
+  },
+  {
+    "Id": 4,
+    "AversName": "empty",
+    "Price": 0,
+    "ForWhatForm": -1,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/mt.png"
   }
 ]
