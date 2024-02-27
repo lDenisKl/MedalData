@@ -3,7 +3,7 @@
   {
     "Id": 1,
     "Name": "WB01Form",
-    "Price": 0,
+    "Price": 150,
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 90,
@@ -13,7 +13,7 @@
   {
     "Id": 2,
     "Name": "WB0125Form",
-    "Price": 0,
+    "Price": 150,
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 90,
