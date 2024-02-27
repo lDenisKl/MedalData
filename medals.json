@@ -4,6 +4,7 @@
     "Name": "WB01",
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB0115(1.png",
+
     "PossibleSizes": [ 1 ],
     "PossibleTapes": [ 1, 2, 3 ],
     "PossibleForms": [ 1, 2 ],
@@ -15,6 +16,14 @@
     "PossibleRevers": [ 1, 2 ],
     "PossibleReversGraving": [ 1, 2 ],
     "ReversTitle": true,
+
+    "TapeTitleStartX": -14.5,
+    "TapeTitleStartY": 0,
+    "TapeTitleGridMargin": 29,
+    "TapeTitleZoomScale": 1.5,
+    "TapeTitleZoomX": 0,
+    "TapeTitleZoomY": -20,
+
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
@@ -27,6 +36,7 @@
     "Name": "WB01 металл",
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.\nРазмер медали: 65 мм\nШирина ленты: 15 мм\nМатериал ленты: репс\nМасса медали: 75 гр\nТолщина медали: 2 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metal(1.png",
+
     "PossibleSizes": [ 2, 3 ],
     "PossibleTapes": [ 1, 2, 3 ],
     "PossibleForms": [ 3, 4, 5, 6 ],
@@ -38,6 +48,14 @@
     "PossibleRevers": [ 2 ],
     "PossibleReversGraving": [ 2 ],
     "ReversTitle": true,
+
+    "TapeTitleStartX": -14.5,
+    "TapeTitleStartY": 0,
+    "TapeTitleGridMargin": 29,
+    "TapeTitleZoomScale": 1.5,
+    "TapeTitleZoomX": 0,
+    "TapeTitleZoomY": -20,
+
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
@@ -50,6 +68,7 @@
     "Name": "WB01 статуэтка акрил",
     "Details": "Статуэтка из акрила унифицированная\nВысота - 180 мм\nМатериал - акрил + металлизированный пластик\nСпособ нанесения - гравировка лазерным станком",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statue(1.png",
+
     "PossibleSizes": [ 4 ],
     "PossibleTapes": [ 4 ],
     "PossibleForms": [ 7 ],
@@ -61,6 +80,7 @@
     "PossibleRevers": [ 3 ],
     "PossibleReversGraving": [ 3 ],
     "ReversTitle": true,
+
     "ReversTitleStartX": 0,
     "ReversTitleStartY": -70,
     "ReversTitleGridMargin": 0,
