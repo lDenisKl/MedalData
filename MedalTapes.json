@@ -13,7 +13,7 @@
     "Id": 2,
     "Name": "Со своим дизайном 25 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/3.jpg",
-    "ClipSVG": "M 0 0 L 800 0 L 800 800 L 0 800 L 0 0 Z ",
+    "ClipSVG": "M 0 0 L 1800 0 L 1800 1800 L 0 1800 L 0 0 Z ",
     "PossibleForms": [ 2, 4, 6 ],
     "Design": true,
     "Width": 25,
