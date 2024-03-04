@@ -23,10 +23,102 @@
   },
   {
     "Id": 4,
-    "MedalId": 3,
+    "MedalId": 10,
     "Price": 550,
     "Size": "101x175",
     "PossibleForms": [ 7 ]
+  },
+  {
+    "Id": 5,
+    "MedalId": 3,
+    "Price": 125,
+    "Size": "66x69",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 6,
+    "MedalId": 4,
+    "Price": 125,
+    "Size": "60x60",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 7,
+    "MedalId": 11,
+    "Price": 125,
+    "Size": "52x65",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 8,
+    "MedalId": 11,
+    "Price": 125,
+    "Size": "60x65",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 9,
+    "MedalId": 11,
+    "Price": 125,
+    "Size": "63x65",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 10,
+    "MedalId": 11,
+    "Price": 125,
+    "Size": "63x65",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 11,
+    "MedalId": 11,
+    "Price": 125,
+    "Size": "53x65",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 12,
+    "MedalId": 11,
+    "Price": 125,
+    "Size": "47x65",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 13,
+    "MedalId": 5,
+    "Price": 175,
+    "Size": "63x71",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 14,
+    "MedalId": 6,
+    "Price": 120,
+    "Size": "77x73",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 15,
+    "MedalId": 7,
+    "Price": 280,
+    "Size": "65x79",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 16,
+    "MedalId": 8,
+    "Price": 280,
+    "Size": "74x70",
+    "PossibleForms": [ ??? ]
+  },
+  {
+    "Id": 17,
+    "MedalId": 9,
+    "Price": 280,
+    "Size": "65x79",
+    "PossibleForms": [ ??? ]
   }
+
 
 ]
