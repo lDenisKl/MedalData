@@ -116,8 +116,16 @@
     "Name": "ColdMedalReversGraving",
     "Price": 0,
     "ForWhatForm": 10,
-    "ReversClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalReversGraving15((.png"
+    "ReversClipSVG": " M 266.4486 100.7611 L 77.1234 100.7611 L 56.0426 137.276 C 98.0277 209.994 108.5227 228.1737 150.5044 300.8916 L 283.5537 300.8916 C 305.4283 263.0014 310.898 253.5292 332.7731 215.6389 C 310.6648 177.3474 288.5565 139.054 266.4486 100.7611 Z",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalReversGraving15((.png",
+
+    "ReversTitleStartX": -14.5,
+    "ReversTitleStartY": 0,
+    "ReversTitleGridMarginLeft":9,
+    "ReversTitleGridMarginUp": 0,
+    "ReversTitleZoomScale": 1.5,
+    "ReversTitleZoomX": 0,
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 10,
