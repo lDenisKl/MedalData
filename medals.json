@@ -30,9 +30,9 @@
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.\nРазмер медали: 65 мм\nШирина ленты: 15 мм\nМатериал ленты: репс\nМасса медали: 75 гр\nТолщина медали: 2 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalSmall15(1.png",
 
-    "PossibleSizes": [ 2, 3 ], //
-    "PossibleTapes": [ 1, 2, 3 ], //
-    "PossibleForms": [ 3, 4, 5, 6 ], //
+    "PossibleSizes": [ 2, 3 ], 
+    "PossibleTapes": [ 1, 2, 3 ], 
+    "PossibleForms": [ 3, 4, 5, 6 ], 
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
     "PossibleFormGraving": [ 3, 4, 5, 6 ], //
     "PossibleAvers": [ 5, 6, 7, 8 ], // сделать пустые
