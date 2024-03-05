@@ -22,7 +22,12 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 2,
@@ -30,25 +35,30 @@
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.\nРазмер медали: 65 мм\nШирина ленты: 15 мм\nМатериал ленты: репс\nМасса медали: 75 гр\nТолщина медали: 2 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalSmall15(1.png",
 
-    "PossibleSizes": [ 2, 3 ], 
-    "PossibleTapes": [ 1, 2, 3 ], 
-    "PossibleForms": [ 3, 4, 5, 6 ], 
+    "PossibleSizes": [ 2, 3 ],
+    "PossibleTapes": [ 1, 2, 3 ],
+    "PossibleForms": [ 3, 4, 5, 6 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
-    "PossibleFormGraving": [ 3, 4, 5, 6 ], 
-    "PossibleAvers": [ 5, 6, 7, 8 ], 
-    "PossibleAversGraving": [ 3, 4, 5, 6 ], 
+    "PossibleFormGraving": [ 3, 4, 5, 6 ],
+    "PossibleAvers": [ 5, 6, 7, 8 ],
+    "PossibleAversGraving": [ 3, 4, 5, 6 ],
     "AversTitle": false,
-    "PossibleRevers": [ 5, 6, 7, 8 ], 
-    "PossibleReversGraving": [ 3, 4, 5, 6 ], 
+    "PossibleRevers": [ 5, 6, 7, 8 ],
+    "PossibleReversGraving": [ 3, 4, 5, 6 ],
     "ReversTitle": true,
 
 
-    "ReversTitleStartX": -14.5, 
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 3,
@@ -65,15 +75,20 @@
     "PossibleAversGraving": [ 7 ],
     "AversTitle": false,
     "PossibleRevers": [ 9 ],
-    "PossibleReversGraving": [ 7 ], 
+    "PossibleReversGraving": [ 7 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, 
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 4,
@@ -90,7 +105,7 @@
     "PossibleAversGraving": [ 8 ],
     "AversTitle": false,
     "PossibleRevers": [ 10 ],
-    "PossibleReversGraving": [ 8 ], 
+    "PossibleReversGraving": [ 8 ],
     "ReversTitle": true,
 
     "ReversTitleStartX": -14.5,
@@ -98,7 +113,12 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 5,
@@ -123,7 +143,12 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 6,
@@ -139,16 +164,21 @@
     "PossibleAvers": [ 12, 13 ],
     "PossibleAversGraving": [ 10 ],
     "AversTitle": true,
-    "PossibleRevers": [ 12 ], 
+    "PossibleRevers": [ 12 ],
     "PossibleReversGraving": [ 10 ],
     "ReversTitle": false,
 
-    "ReversTitleStartX": -14.5, 
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 7,
@@ -160,20 +190,25 @@
     "PossibleTapes": [ 1, 2 ],
     "PossibleForms": [ 12 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
-    "PossibleFormGraving": [ 12 ], 
-    "PossibleAvers": [ 14 ], 
+    "PossibleFormGraving": [ 12 ],
+    "PossibleAvers": [ 14 ],
     "PossibleAversGraving": [ 11 ],
     "AversTitle": false,
-    "PossibleRevers": [ 13 ], 
-    "PossibleReversGraving": [ 11 ], 
+    "PossibleRevers": [ 13 ],
+    "PossibleReversGraving": [ 11 ],
     "ReversTitle": false,
 
-    "ReversTitleStartX": -1, 
+    "ReversTitleStartX": -1,
     "ReversTitleStartY": -1,
     "ReversTitleGridMargin": -1,
     "ReversTitleZoomScale": -1,
     "ReversTitleZoomX": -1,
-    "ReversTitleZoomY": -1
+    "ReversTitleZoomY": -1,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 8,
@@ -185,20 +220,25 @@
     "PossibleTapes": [ 1, 2 ],
     "PossibleForms": [ 13 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
-    "PossibleFormGraving": [ 13 ], 
+    "PossibleFormGraving": [ 13 ],
     "PossibleAvers": [ 15 ],
-    "PossibleAversGraving": [ 12 ], 
+    "PossibleAversGraving": [ 12 ],
     "AversTitle": true,
-    "PossibleRevers": [ 14 ], 
-    "PossibleReversGraving": [ 12 ], 
+    "PossibleRevers": [ 14 ],
+    "PossibleReversGraving": [ 12 ],
     "ReversTitle": false,
 
-    "ReversTitleStartX": -14.5, 
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 9,
@@ -210,12 +250,12 @@
     "PossibleTapes": [ 1, 2 ],
     "PossibleForms": [ 14 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
-    "PossibleFormGraving": [ 14 ], 
-    "PossibleAvers": [ 16 ], 
-    "PossibleAversGraving": [ 13 ], 
+    "PossibleFormGraving": [ 14 ],
+    "PossibleAvers": [ 16 ],
+    "PossibleAversGraving": [ 13 ],
     "AversTitle": false,
-    "PossibleRevers": [ 15 ], 
-    "PossibleReversGraving": [ 13 ], 
+    "PossibleRevers": [ 15 ],
+    "PossibleReversGraving": [ 13 ],
     "ReversTitle": false,
 
     "ReversTitleStartX": -1,
@@ -223,7 +263,12 @@
     "ReversTitleGridMargin": -1,
     "ReversTitleZoomScale": -1,
     "ReversTitleZoomX": -1,
-    "ReversTitleZoomY": -1
+    "ReversTitleZoomY": -1,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 10,
@@ -240,7 +285,7 @@
     "PossibleAversGraving": [ 20 ],
     "AversTitle": false,
     "PossibleRevers": [ 3 ],
-    "PossibleReversGraving": [ 20 ], 
+    "PossibleReversGraving": [ 20 ],
     "ReversTitle": true,
 
     "ReversTitleStartX": 0,
@@ -248,7 +293,12 @@
     "ReversTitleGridMargin": 0,
     "ReversTitleZoomScale": 2.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": 165
+    "ReversTitleZoomY": 165,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 11,
@@ -268,12 +318,17 @@
     "PossibleReversGraving": [ 14 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, 
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 12,
@@ -293,12 +348,17 @@
     "PossibleReversGraving": [ 15 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, 
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 13,
@@ -318,12 +378,17 @@
     "PossibleReversGraving": [ 16 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, 
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 14,
@@ -348,7 +413,12 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 15,
@@ -365,7 +435,7 @@
     "PossibleAversGraving": [ 18 ],
     "AversTitle": false,
     "PossibleRevers": [ 20 ],
-    "PossibleReversGraving": [ 18 ], 
+    "PossibleReversGraving": [ 18 ],
     "ReversTitle": true,
 
     "ReversTitleStartX": -14.5,
@@ -373,7 +443,12 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   },
   {
     "Id": 16,
@@ -393,11 +468,16 @@
     "PossibleReversGraving": [ 19 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, 
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleZoomY": -20,
+
+    "PDFposX": 0,
+    "PDFposY": 0,
+    "PDFmultiplierX": 0,
+    "PDFmultiplierY": 0
   }
 ]
