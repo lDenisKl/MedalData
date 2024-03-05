@@ -35,15 +35,15 @@
     "PossibleForms": [ 3, 4, 5, 6 ], 
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
     "PossibleFormGraving": [ 3, 4, 5, 6 ], 
-    "PossibleAvers": [ 5, 6, 7, 8 ], // сделать пустые
+    "PossibleAvers": [ 5, 6, 7, 8 ], 
     "PossibleAversGraving": [ 3, 4, 5, 6 ], 
     "AversTitle": false,
-    "PossibleRevers": [ 5, 6, 7, 8 ], // сделать пустые
-    "PossibleReversGraving": [ 3, 4, 5, 6 ], // сделать SVG
+    "PossibleRevers": [ 5, 6, 7, 8 ], 
+    "PossibleReversGraving": [ 3, 4, 5, 6 ], 
     "ReversTitle": true,
 
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5, 
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -65,10 +65,10 @@
     "PossibleAversGraving": [ 7 ],
     "AversTitle": false,
     "PossibleRevers": [ 9 ],
-    "PossibleReversGraving": [ 7 ], // SVG
+    "PossibleReversGraving": [ 7 ], 
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5, 
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -90,10 +90,10 @@
     "PossibleAversGraving": [ 8 ],
     "AversTitle": false,
     "PossibleRevers": [ 10 ],
-    "PossibleReversGraving": [ 8 ], // SVG
+    "PossibleReversGraving": [ 8 ], 
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -115,10 +115,10 @@
     "PossibleAversGraving": [ 9 ],
     "AversTitle": false,
     "PossibleRevers": [ 11 ],
-    "PossibleReversGraving": [ 9 ], // SVG
+    "PossibleReversGraving": [ 9 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -135,15 +135,15 @@
     "PossibleTapes": [ 1, 2 ],
     "PossibleForms": [ 11 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
-    "PossibleFormGraving": [ 11 ], // добавить пустые
-    "PossibleAvers": [ 12, 13 ], // добавить пустое
-    "PossibleAversGraving": [ 10 ], // добавить SVG
+    "PossibleFormGraving": [ 11 ],
+    "PossibleAvers": [ 12, 13 ],
+    "PossibleAversGraving": [ 10 ],
     "AversTitle": true,
-    "PossibleRevers": [ 12 ], // добавить пустое
-    "PossibleReversGraving": [ 10 ], // добавить пустое
+    "PossibleRevers": [ 12 ], 
+    "PossibleReversGraving": [ 10 ],
     "ReversTitle": false,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5, 
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -160,15 +160,15 @@
     "PossibleTapes": [ 1, 2 ],
     "PossibleForms": [ 12 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
-    "PossibleFormGraving": [ 12 ], // добавить пустое
-    "PossibleAvers": [ 14 ], // добавить пустое
-    "PossibleAversGraving": [ 11 ], // добавить пустое
+    "PossibleFormGraving": [ 12 ], 
+    "PossibleAvers": [ 14 ], 
+    "PossibleAversGraving": [ 11 ],
     "AversTitle": false,
-    "PossibleRevers": [ 13 ], // добавить пустое
-    "PossibleReversGraving": [ 11 ], // добавить пустое
+    "PossibleRevers": [ 13 ], 
+    "PossibleReversGraving": [ 11 ], 
     "ReversTitle": false,
 
-    "ReversTitleStartX": -1, // убрать
+    "ReversTitleStartX": -1, 
     "ReversTitleStartY": -1,
     "ReversTitleGridMargin": -1,
     "ReversTitleZoomScale": -1,
@@ -185,15 +185,15 @@
     "PossibleTapes": [ 1, 2 ],
     "PossibleForms": [ 13 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
-    "PossibleFormGraving": [ 13 ], // добавить пустое
+    "PossibleFormGraving": [ 13 ], 
     "PossibleAvers": [ 15 ],
-    "PossibleAversGraving": [ 12 ], // SVG
+    "PossibleAversGraving": [ 12 ], 
     "AversTitle": true,
-    "PossibleRevers": [ 14 ], // добавить пустое
-    "PossibleReversGraving": [ 12 ], // добавить пустое
+    "PossibleRevers": [ 14 ], 
+    "PossibleReversGraving": [ 12 ], 
     "ReversTitle": false,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5, 
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -210,12 +210,12 @@
     "PossibleTapes": [ 1, 2 ],
     "PossibleForms": [ 14 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
-    "PossibleFormGraving": [ 14 ], // добавить пустое
-    "PossibleAvers": [ 16 ], // добавить пустое
-    "PossibleAversGraving": [ 13 ], // добавить пустое
+    "PossibleFormGraving": [ 14 ], 
+    "PossibleAvers": [ 16 ], 
+    "PossibleAversGraving": [ 13 ], 
     "AversTitle": false,
-    "PossibleRevers": [ 15 ], // добавить пустое
-    "PossibleReversGraving": [ 13 ], // добавить пустое
+    "PossibleRevers": [ 15 ], 
+    "PossibleReversGraving": [ 13 ], 
     "ReversTitle": false,
 
     "ReversTitleStartX": -1,
@@ -240,7 +240,7 @@
     "PossibleAversGraving": [ 20 ],
     "AversTitle": false,
     "PossibleRevers": [ 3 ],
-    "PossibleReversGraving": [ 20 ], // SVG
+    "PossibleReversGraving": [ 20 ], 
     "ReversTitle": true,
 
     "ReversTitleStartX": 0,
@@ -265,10 +265,10 @@
     "PossibleAversGraving": [ 14 ],
     "AversTitle": false,
     "PossibleRevers": [ 16 ],
-    "PossibleReversGraving": [ 14 ], // SVG
+    "PossibleReversGraving": [ 14 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5, 
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -290,10 +290,10 @@
     "PossibleAversGraving": [ 15 ],
     "AversTitle": false,
     "PossibleRevers": [ 17 ],
-    "PossibleReversGraving": [ 15 ], // SVG
+    "PossibleReversGraving": [ 15 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5, 
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -315,10 +315,10 @@
     "PossibleAversGraving": [ 16 ],
     "AversTitle": false,
     "PossibleRevers": [ 18 ],
-    "PossibleReversGraving": [ 16 ], // SVG
+    "PossibleReversGraving": [ 16 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5, 
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -340,10 +340,10 @@
     "PossibleAversGraving": [ 17 ],
     "AversTitle": false,
     "PossibleRevers": [ 19 ],
-    "PossibleReversGraving": [ 17 ], // SVG
+    "PossibleReversGraving": [ 17 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -365,10 +365,10 @@
     "PossibleAversGraving": [ 18 ],
     "AversTitle": false,
     "PossibleRevers": [ 20 ],
-    "PossibleReversGraving": [ 18 ], // SVG
+    "PossibleReversGraving": [ 18 ], 
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -390,10 +390,10 @@
     "PossibleAversGraving": [ 19 ],
     "AversTitle": false,
     "PossibleRevers": [ 21 ],
-    "PossibleReversGraving": [ 19 ], // SVG
+    "PossibleReversGraving": [ 19 ],
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartX": -14.5, 
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
