@@ -129,7 +129,7 @@
   },
   {
     "Id": 10,
-    "Name": "BlackAkrilTriMedalReversGraving",
+    "Name": "BlackAkrilTriMedalEMPTYReversGraving",
     "Price": 0,
     "ForWhatForm": 11,
     "ReversClipSVG": "",
@@ -164,8 +164,16 @@
     "Name": "FootBall1MedalReversGraving",
     "Price": 0,
     "ForWhatForm": 15,
-    "ReversClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1ReversGraving15((.png"
+    "ReversClipSVG": "M 195.033 199.7587 C 197.6872 200.922 196.7336 205.7783 196.3486 207.9627 L 187.5141 258.0656 C 187.0131 260.9065 185.5272 263.4799 183.3176 265.3342 L 144.3446 298.0366 C 142.124 299.8993 139.3303 300.907 136.449 300.907 L 85.3114 300.9042 C 82.5846 300.8846 79.7822 299.7952 77.686 298.0366 L 38.713 265.3342 C 36.5035 263.4799 35.0175 260.9065 34.5164 258.0656 C 33.3 251.1662 25.1758 206.9797 25.2025 203.6147 C 25.2167 201.7989 25.6586 200.2859 27.1394 199.6972 C 45.5779 192.3389 78.4244 189.225 111.0153 189.4388 C 143.6062 189.225 176.4528 192.3389 194.8912 199.6972 C 194.9398 199.7164 194.9867 199.7371 195.033 199.7587 Z",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1ReversGraving15((.png",
+
+    "ReversTitleStartX": -14.5,
+    "ReversTitleStartY": 0,
+    "ReversTitleGridMarginLeft":-1,
+    "ReversTitleGridMarginUp": 3,
+    "ReversTitleZoomScale": 1.5,
+    "ReversTitleZoomX": 0,
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 15,
