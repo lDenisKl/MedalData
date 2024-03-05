@@ -105,8 +105,8 @@
 
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft": 4,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": 0,
+    "ReversTitleGridMarginUp": 2,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20
@@ -121,8 +121,8 @@
 
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft":9,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft":0,
+    "ReversTitleGridMarginUp": 5,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20
