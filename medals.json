@@ -8,7 +8,7 @@
     "PossibleSizes": [ 1 ],
     "PossibleTapes": [ 1, 2, 3 ],
     "PossibleForms": [ 1, 2 ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
     "PossibleFormGraving": [ 1, 2 ],
     "PossibleAvers": [ 1, 2 ],
     "PossibleAversGraving": [ 1, 2 ],
@@ -28,22 +28,22 @@
     "Id": 2,
     "Name": "WB01 металл",
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.\nРазмер медали: 65 мм\nШирина ленты: 15 мм\nМатериал ленты: репс\nМасса медали: 75 гр\nТолщина медали: 2 мм",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metal(1.png",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalSmall15(1.png",
 
-    "PossibleSizes": [ 2, 3 ],
-    "PossibleTapes": [ 1, 2, 3 ],
-    "PossibleForms": [ 3, 4, 5, 6 ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ 2 ],
-    "PossibleAvers": [ 2 ],
-    "PossibleAversGraving": [ 2 ],
+    "PossibleSizes": [ 2, 3 ], //
+    "PossibleTapes": [ 1, 2, 3 ], //
+    "PossibleForms": [ 3, 4, 5, 6 ], //
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 3, 4, 5, 6 ], //
+    "PossibleAvers": [ 5, 6, 7, 8 ], // сделать пустые
+    "PossibleAversGraving": [ 3, 4, 5, 6 ], //
     "AversTitle": false,
-    "PossibleRevers": [ 2 ],
-    "PossibleReversGraving": [ 2 ],
+    "PossibleRevers": [ 5, 6, 7, 8 ], // сделать пустые
+    "PossibleReversGraving": [ 3, 4, 5, 6 ], // сделать SVG
     "ReversTitle": true,
 
 
-    "ReversTitleStartX": -14.5,
+    "ReversTitleStartX": -14.5, // определить значения
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -54,21 +54,21 @@
     "Id": 3,
     "Name": "Спортивная медаль",
     "Details": "",
-    "Image": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedal15(1.png",
 
     "PossibleSizes": [ 5 ],
     "PossibleTapes": [ 3 ],
-    "PossibleForms": [ ??? ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ ??? ],
-    "PossibleAvers": [ ??? ],
-    "PossibleAversGraving": [ ??? ],
+    "PossibleForms": [ 8 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 8 ],
+    "PossibleAvers": [ 9 ],
+    "PossibleAversGraving": [ 7 ],
     "AversTitle": false,
-    "PossibleRevers": [ ??? ],
-    "PossibleReversGraving": [??? ],
+    "PossibleRevers": [ 9 ],
+    "PossibleReversGraving": [ 7 ], // SVG
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5,
+    "ReversTitleStartX": -14.5, // определить значения
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -79,21 +79,21 @@
     "Id": 4,
     "Name": "Медаль венок",
     "Details": "",
-    "Image": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedal15(1.png",
 
     "PossibleSizes": [ 6 ],
     "PossibleTapes": [ 3 ],
-    "PossibleForms": [ ??? ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ ??? ],
-    "PossibleAvers": [ ??? ],
-    "PossibleAversGraving": [ ??? ],
+    "PossibleForms": [ 9 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 9 ],
+    "PossibleAvers": [ 10 ],
+    "PossibleAversGraving": [ 8 ],
     "AversTitle": false,
-    "PossibleRevers": [ ??? ],
-    "PossibleReversGraving": [??? ],
+    "PossibleRevers": [ 10 ],
+    "PossibleReversGraving": [ 8 ], // SVG
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5,
+    "ReversTitleStartX": -14.5, // определить значения
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -104,21 +104,21 @@
     "Id": 5,
     "Name": "Медаль холод",
     "Details": "",
-    "Image": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedal15(1.png",
 
     "PossibleSizes": [ 13 ],
     "PossibleTapes": [ 3 ],
-    "PossibleForms": [ ??? ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ ??? ],
-    "PossibleAvers": [ ??? ],
-    "PossibleAversGraving": [ ??? ],
+    "PossibleForms": [ 10 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 10 ],
+    "PossibleAvers": [ 11 ],
+    "PossibleAversGraving": [ 9 ],
     "AversTitle": false,
-    "PossibleRevers": [ ??? ],
-    "PossibleReversGraving": [??? ],
+    "PossibleRevers": [ 11 ],
+    "PossibleReversGraving": [ 9 ], // SVG
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5,
+    "ReversTitleStartX": -14.5, // определить значения
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -129,21 +129,21 @@
     "Id": 6,
     "Name": "Медаль черный акрил",
     "Details": "",
-    "Image": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/BlackAkrilTriMedal25(1.png",
 
     "PossibleSizes": [ 14 ],
-    "PossibleTapes": [1,2 ],
-    "PossibleForms": [ ??? ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ ??? ],
-    "PossibleAvers": [ ??? ],
-    "PossibleAversGraving": [ ??? ],
-    "AversTitle": false,
-    "PossibleRevers": [ ??? ],
-    "PossibleReversGraving": [??? ],
-    "ReversTitle": true,
+    "PossibleTapes": [ 1, 2 ],
+    "PossibleForms": [ 11 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 11 ], // добавить пустые
+    "PossibleAvers": [ 12, 13 ], // добавить пустое
+    "PossibleAversGraving": [ 10 ], // добавить SVG
+    "AversTitle": true,
+    "PossibleRevers": [ 12 ], // добавить пустое
+    "PossibleReversGraving": [ 10 ], // добавить пустое
+    "ReversTitle": false,
 
-    "ReversTitleStartX": -14.5,
+    "ReversTitleStartX": -14.5, // определить значения
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -154,46 +154,46 @@
     "Id": 7,
     "Name": "Медаль черный акрил 2",
     "Details": "",
-    "Image": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/BlackAkrilTornadoMedalForm25(1.png",
 
     "PossibleSizes": [ 15 ],
-    "PossibleTapes": [1,2 ],
-    "PossibleForms": [ ??? ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ ??? ],
-    "PossibleAvers": [ ??? ],
-    "PossibleAversGraving": [ ??? ],
+    "PossibleTapes": [ 1, 2 ],
+    "PossibleForms": [ 12 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 12 ], // добавить пустое
+    "PossibleAvers": [ 14 ], // добавить пустое
+    "PossibleAversGraving": [ 11 ], // добавить пустое
     "AversTitle": false,
-    "PossibleRevers": [ ??? ],
-    "PossibleReversGraving": [??? ],
-    "ReversTitle": true,
+    "PossibleRevers": [ 13 ], // добавить пустое
+    "PossibleReversGraving": [ 11 ], // добавить пустое
+    "ReversTitle": false,
 
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleStartX": -1, // убрать
+    "ReversTitleStartY": -1,
+    "ReversTitleGridMargin": -1,
+    "ReversTitleZoomScale": -1,
+    "ReversTitleZoomX": -1,
+    "ReversTitleZoomY": -1
   },
   {
     "Id": 8,
-    "Name": "Медаль металл линии",
+    "Name": "Медаль металл 1",
     "Details": "",
-    "Image": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/LineMetalMedal25(1.png",
 
     "PossibleSizes": [ 16 ],
-    "PossibleTapes": [1,2 ],
-    "PossibleForms": [ ??? ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ ??? ],
-    "PossibleAvers": [ ??? ],
-    "PossibleAversGraving": [ ??? ],
-    "AversTitle": false,
-    "PossibleRevers": [ ??? ],
-    "PossibleReversGraving": [??? ],
-    "ReversTitle": true,
+    "PossibleTapes": [ 1, 2 ],
+    "PossibleForms": [ 13 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 13 ], // добавить пустое
+    "PossibleAvers": [ 15 ],
+    "PossibleAversGraving": [ 12 ], // SVG
+    "AversTitle": true,
+    "PossibleRevers": [ 14 ], // добавить пустое
+    "PossibleReversGraving": [ 12 ], // добавить пустое
+    "ReversTitle": false,
 
-    "ReversTitleStartX": -14.5,
+    "ReversTitleStartX": -14.5, // определить значения
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
@@ -202,28 +202,28 @@
   },
   {
     "Id": 9,
-    "Name": "Медаль металл линии",
+    "Name": "Медаль металл 2",
     "Details": "",
-    "Image": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/MetalTornadoMedalForm25(1.png",
 
     "PossibleSizes": [ 17 ],
-    "PossibleTapes": [1,2 ],
-    "PossibleForms": [ ??? ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ ??? ],
-    "PossibleAvers": [ ??? ],
-    "PossibleAversGraving": [ ??? ],
+    "PossibleTapes": [ 1, 2 ],
+    "PossibleForms": [ 14 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 14 ], // добавить пустое
+    "PossibleAvers": [ 16 ], // добавить пустое
+    "PossibleAversGraving": [ 13 ], // добавить пустое
     "AversTitle": false,
-    "PossibleRevers": [ ??? ],
-    "PossibleReversGraving": [??? ],
-    "ReversTitle": true,
+    "PossibleRevers": [ 15 ], // добавить пустое
+    "PossibleReversGraving": [ 13 ], // добавить пустое
+    "ReversTitle": false,
 
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitleStartX": -1,
+    "ReversTitleStartY": -1,
+    "ReversTitleGridMargin": -1,
+    "ReversTitleZoomScale": -1,
+    "ReversTitleZoomX": -1,
+    "ReversTitleZoomY": -1
   },
   {
     "Id": 10,
@@ -234,13 +234,13 @@
     "PossibleSizes": [ 4 ],
     "PossibleTapes": [ 4 ],
     "PossibleForms": [ 7 ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ 3 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 7 ],
     "PossibleAvers": [ 3 ],
-    "PossibleAversGraving": [ 3 ],
+    "PossibleAversGraving": [ 20 ],
     "AversTitle": false,
     "PossibleRevers": [ 3 ],
-    "PossibleReversGraving": [ 3 ],
+    "PossibleReversGraving": [ 20 ], // SVG
     "ReversTitle": true,
 
     "ReversTitleStartX": 0,
@@ -252,23 +252,148 @@
   },
   {
     "Id": 11,
-    "Name": "Спорт на выбор",
+    "Name": "Футбол 1",
     "Details": "",
-    "Image": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall115(1.png",
 
-    "PossibleSizes": [ ??? РАЗБИТЬ ],
+    "PossibleSizes": [ 7 ],
     "PossibleTapes": [ 3 ],
-    "PossibleForms": [ ??? ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7,8,9,10,11,12,13,14,15 ],
-    "PossibleFormGraving": [ ??? ],
-    "PossibleAvers": [ ??? ],
-    "PossibleAversGraving": [ ??? ],
+    "PossibleForms": [ 15 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 15 ],
+    "PossibleAvers": [ 17 ],
+    "PossibleAversGraving": [ 14 ],
     "AversTitle": false,
-    "PossibleRevers": [ ??? ],
-    "PossibleReversGraving": [??? ],
+    "PossibleRevers": [ 16 ],
+    "PossibleReversGraving": [ 14 ], // SVG
     "ReversTitle": true,
 
-    "ReversTitleStartX": -14.5,
+    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartY": 0,
+    "ReversTitleGridMargin": 29,
+    "ReversTitleZoomScale": 1.5,
+    "ReversTitleZoomX": 0,
+    "ReversTitleZoomY": -20
+  },
+  {
+    "Id": 12,
+    "Name": "Футбол 2",
+    "Details": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall215(1.png",
+
+    "PossibleSizes": [ 8 ],
+    "PossibleTapes": [ 3 ],
+    "PossibleForms": [ 16 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 16 ],
+    "PossibleAvers": [ 18 ],
+    "PossibleAversGraving": [ 15 ],
+    "AversTitle": false,
+    "PossibleRevers": [ 17 ],
+    "PossibleReversGraving": [ 15 ], // SVG
+    "ReversTitle": true,
+
+    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartY": 0,
+    "ReversTitleGridMargin": 29,
+    "ReversTitleZoomScale": 1.5,
+    "ReversTitleZoomX": 0,
+    "ReversTitleZoomY": -20
+  },
+  {
+    "Id": 13,
+    "Name": "Воллейбол",
+    "Details": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall115(1.png",
+
+    "PossibleSizes": [ 9 ],
+    "PossibleTapes": [ 3 ],
+    "PossibleForms": [ 17 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 17 ],
+    "PossibleAvers": [ 19 ],
+    "PossibleAversGraving": [ 16 ],
+    "AversTitle": false,
+    "PossibleRevers": [ 18 ],
+    "PossibleReversGraving": [ 16 ], // SVG
+    "ReversTitle": true,
+
+    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartY": 0,
+    "ReversTitleGridMargin": 29,
+    "ReversTitleZoomScale": 1.5,
+    "ReversTitleZoomX": 0,
+    "ReversTitleZoomY": -20
+  },
+  {
+    "Id": 14,
+    "Name": "Плавание 1",
+    "Details": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming115(1.png",
+
+    "PossibleSizes": [ 10 ],
+    "PossibleTapes": [ 3 ],
+    "PossibleForms": [ 18 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 18 ],
+    "PossibleAvers": [ 20 ],
+    "PossibleAversGraving": [ 17 ],
+    "AversTitle": false,
+    "PossibleRevers": [ 19 ],
+    "PossibleReversGraving": [ 17 ], // SVG
+    "ReversTitle": true,
+
+    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartY": 0,
+    "ReversTitleGridMargin": 29,
+    "ReversTitleZoomScale": 1.5,
+    "ReversTitleZoomX": 0,
+    "ReversTitleZoomY": -20
+  },
+  {
+    "Id": 15,
+    "Name": "Плавание 2",
+    "Details": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming215(1.png",
+
+    "PossibleSizes": [ 11 ],
+    "PossibleTapes": [ 3 ],
+    "PossibleForms": [ 19 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 19 ],
+    "PossibleAvers": [ 21 ],
+    "PossibleAversGraving": [ 18 ],
+    "AversTitle": false,
+    "PossibleRevers": [ 20 ],
+    "PossibleReversGraving": [ 18 ], // SVG
+    "ReversTitle": true,
+
+    "ReversTitleStartX": -14.5, // определить значения
+    "ReversTitleStartY": 0,
+    "ReversTitleGridMargin": 29,
+    "ReversTitleZoomScale": 1.5,
+    "ReversTitleZoomX": 0,
+    "ReversTitleZoomY": -20
+  },
+  {
+    "Id": 16,
+    "Name": "Единоборства 1",
+    "Details": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting115(1.png",
+
+    "PossibleSizes": [ 12 ],
+    "PossibleTapes": [ 3 ],
+    "PossibleForms": [ 20 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleFormGraving": [ 20 ],
+    "PossibleAvers": [ 22 ],
+    "PossibleAversGraving": [ 19 ],
+    "AversTitle": false,
+    "PossibleRevers": [ 21 ],
+    "PossibleReversGraving": [ 19 ], // SVG
+    "ReversTitle": true,
+
+    "ReversTitleStartX": -14.5, // определить значения
     "ReversTitleStartY": 0,
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,

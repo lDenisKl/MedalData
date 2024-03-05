@@ -19,14 +19,144 @@
     "Id": 3,
     "Name": "WB01metalReversGraving",
     "Price": 0,
-    "ForWhatForm": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalReversGraving.png"
+    "ForWhatForm": 3,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalReversGravingSmall15((.png"
   },
   {
     "Id": 4,
+    "Name": "WB01metal25ReversGraving",
+    "Price": 0,
+    "ForWhatForm": 4,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalReversGravingSmall25((.png"
+  },
+  {
+    "Id": 5,
+    "Name": "WB01metalBigReversGraving",
+    "Price": 0,
+    "ForWhatForm": 5,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalReversGravingBig((.png"
+  },
+  {
+    "Id": 6,
+    "Name": "WB01metal25BigReversGraving",
+    "Price": 0,
+    "ForWhatForm": 6,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalReversGravingBig((.png"
+  },
+  {
+    "Id": 7,
+    "Name": "SportMedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 8,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedalReversGraving15((.png"
+  },
+  {
+    "Id": 8,
+    "Name": "WreathMedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 9,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalReversGraving15((.png"
+  },
+  {
+    "Id": 9,
+    "Name": "ColdMedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 10,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalReversGraving15((.png"
+  },
+  {
+    "Id": 10,
+    "Name": "BlackAkrilTriMedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 11,
+    "ReversClipSVG": "",
+    "Image": ""
+  },
+  {
+    "Id": 11,
+    "Name": "BlackAkrilTornadoMedalEMPTYReversGraving",
+    "Price": 0,
+    "ForWhatForm": 12,
+    "ReversClipSVG": "",
+    "Image": ""
+  },
+  {
+    "Id": 12,
+    "Name": "LineMetalMedalEMPTYReversGraving",
+    "Price": 0,
+    "ForWhatForm": 13,
+    "ReversClipSVG": "",
+    "Image": ""
+  },
+  {
+    "Id": 13,
+    "Name": "MetalTornadoMedalEMPTYReversGraving",
+    "Price": 0,
+    "ForWhatForm": 14,
+    "ReversClipSVG": "",
+    "Image": ""
+  },
+  {
+    "Id": 14,
+    "Name": "FootBall1MedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 15,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1ReversGraving15((.png"
+  },
+  {
+    "Id": 15,
+    "Name": "FootBall2MedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 16,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall2ReversGraving15((.png"
+  },
+  {
+    "Id": 16,
+    "Name": "VolleyBall1MedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 17,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall1ReversGraving15((.png"
+  },
+  {
+    "Id": 17,
+    "Name": "Swimming1MedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 18,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming1ReversGraving15((.png"
+  },
+  {
+    "Id": 18,
+    "Name": "Swimming2MedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 19,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming2ReversGraving15((.png"
+  },
+  {
+    "Id": 19,
+    "Name": "Fighting1MedalReversGraving",
+    "Price": 0,
+    "ForWhatForm": 20,
+    "ReversClipSVG": "",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting1ReversGraving15((.png"
+  },
+  {
+    "Id": 20,
     "Name": "WB01statueReversGraving",
     "Price": 0,
-    "ForWhatForm": 0,
+    "ForWhatForm": 7,
+    "ReversClipSVG": "",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueReversGraving.png"
   }
 ]

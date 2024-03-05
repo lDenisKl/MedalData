@@ -17,7 +17,7 @@
     "Id": 3,
     "AversName": "WB01statueAvers",
     "Price": 0,
-    "ForWhatForm": 0,
+    "ForWhatForm": 7,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueAvers(1.png"
   },
   {
@@ -26,5 +26,131 @@
     "Price": 0,
     "ForWhatForm": -1,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/mt.png"
+  },
+  {
+    "Id": 5,
+    "AversName": "WB01BlackMetalEMPTYAvers",
+    "Price": 0,
+    "ForWhatForm": 3,
+    "Image": ""
+  },
+  {
+    "Id": 6,
+    "AversName": "WB01BlackMetal25EMPTYAvers",
+    "Price": 0,
+    "ForWhatForm": 4,
+    "Image": ""
+  },
+  {
+    "Id": 7,
+    "AversName": "WB01BlackMetalBigEMPTYAvers",
+    "Price": 0,
+    "ForWhatForm": 5,
+    "Image": ""
+  },
+  {
+    "Id": 8,
+    "AversName": "WB01BlackMetal25BigEMPTYAvers",
+    "Price": 0,
+    "ForWhatForm": 6,
+    "Image": ""
+  },
+  {
+    "Id": 9,
+    "AversName": "SportMedalAvers",
+    "Price": 0,
+    "ForWhatForm": 8,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedalAvers(1.png"
+  },
+  {
+    "Id": 10,
+    "AversName": "WreathMedalAvers",
+    "Price": 0,
+    "ForWhatForm": 9,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalAvers(1.png"
+  },
+  {
+    "Id": 11,
+    "AversName": "ColdMedalAvers",
+    "Price": 0,
+    "ForWhatForm": 10,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalAvers(1.png"
+  },
+  {
+    "Id": 12,
+    "AversName": "BlackAkrilTriMedalEMPTYAvers",
+    "Price": 0,
+    "ForWhatForm": 11,
+    "Image": ""
+  },
+  {
+    "Id": 13,
+    "AversName": "BlackAkrilTriMedalAvers",
+    "Price": 0,
+    "ForWhatForm": 11,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/BlackAkrilTriMedalAvers(1.png"
+  },
+  {
+    "Id": 14,
+    "AversName": "BlackAkrilTornadoMedalEMPTYAvers",
+    "Price": 0,
+    "ForWhatForm": 12,
+    "Image": ""
+  },
+  {
+    "Id": 15,
+    "AversName": "LineMetalMedalAvers",
+    "Price": 0,
+    "ForWhatForm": 13,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/LineMetalMedalAvers(1.png"
+  },
+  {
+    "Id": 16,
+    "AversName": "MetalTornadoMedalMedalAvers",
+    "Price": 0,
+    "ForWhatForm": 14,
+    "Image": ""
+  },
+  {
+    "Id": 17,
+    "AversName": "FootBall1MedalMedalAvers",
+    "Price": 0,
+    "ForWhatForm": 15,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1Avers15(1.png"
+  },
+  {
+    "Id": 18,
+    "AversName": "FootBall2MedalMedalAvers",
+    "Price": 0,
+    "ForWhatForm": 16,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall2Avers15(1.png"
+  },
+  {
+    "Id": 19,
+    "AversName": "VolleyBall1MedalAvers",
+    "Price": 0,
+    "ForWhatForm": 17,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall1Avers15(1.png"
+  },
+  {
+    "Id": 20,
+    "AversName": "Swimming1MedalAvers",
+    "Price": 0,
+    "ForWhatForm": 18,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming1Avers15(1.png"
+  },
+  {
+    "Id": 21,
+    "AversName": "Swimming2MedalAvers",
+    "Price": 0,
+    "ForWhatForm": 19,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming2Avers15(1.png"
+  },
+  {
+    "Id": 22,
+    "AversName": "Fighting1MedalAvers",
+    "Price": 0,
+    "ForWhatForm": 20,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting1Avers15(1.png"
   }
 ]

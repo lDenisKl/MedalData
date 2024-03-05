@@ -15,16 +15,128 @@
   },
   {
     "Id": 3,
-    "FormGravingName": "WB01metalFormGraving",
+    "FormGravingName": "WB01BlackMetalFormGraving",
     "Price": 0,
-    "ForWhatForm": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01metal/WB01metalFormGraving((.png"
+    "ForWhatForm": 3,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalFormGravingSmall15((.png"
   },
   {
     "Id": 4,
+    "FormGravingName": "WB01BlackMetal25FormGraving",
+    "Price": 0,
+    "ForWhatForm": 4,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalFormGravingSmall25((.png"
+  },
+  {
+    "Id": 5,
+    "FormGravingName": "WB01BlackMetalBigFormGraving",
+    "Price": 0,
+    "ForWhatForm": 5,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalFormGravingBig((.png"
+  },
+  {
+    "Id": 6,
+    "FormGravingName": "WB01BlackMetal25BigFormGraving",
+    "Price": 0,
+    "ForWhatForm": 6,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalFormGravingBig((.png"
+  },
+  {
+    "Id": 7,
     "FormGravingName": "WB01statueFormGraving",
     "Price": 0,
-    "ForWhatForm": 0,
+    "ForWhatForm": 7,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueFormGraving((.png"
+  },
+  {
+    "Id": 8,
+    "FormGravingName": "SportMedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 8,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedalFormGraving((.png"
+  },
+  {
+    "Id": 9,
+    "FormGravingName": "WreathMedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 9,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalFormGraving((.png"
+  },
+  {
+    "Id": 10,
+    "FormGravingName": "ColdMedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 10,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalFormGraving((.png"
+  },
+  {
+    "Id": 11,
+    "FormGravingName": "BlackAkrilTriMedalEMPTYFormGraving",
+    "Price": 0,
+    "ForWhatForm": 11,
+    "Image": ""
+  },
+  {
+    "Id": 12,
+    "FormGravingName": "BlackAkrilTornadoMedalEMPTYFormGraving",
+    "Price": 0,
+    "ForWhatForm": 12,
+    "Image": ""
+  },
+  {
+    "Id": 13,
+    "FormGravingName": "LineMetalMedalEMPTYFormGraving",
+    "Price": 0,
+    "ForWhatForm": 13,
+    "Image": ""
+  },
+  {
+    "Id": 14,
+    "FormGravingName": "MetalTornadoMedalEMPTYFormGraving",
+    "Price": 0,
+    "ForWhatForm": 14,
+    "Image": ""
+  },
+  {
+    "Id": 15,
+    "FormGravingName": "FootBall1MedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 15,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1FormGraving15((.png"
+  },
+  {
+    "Id": 16,
+    "FormGravingName": "FootBall2MedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 16,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall2FormGraving15((.png"
+  },
+  {
+    "Id": 17,
+    "FormGravingName": "Volleyball1MedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 17,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall1FormGraving15((.png"
+  },
+  {
+    "Id": 18,
+    "FormGravingName": "Swimming1MedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 18,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming1FormGraving15((.png"
+  },
+  {
+    "Id": 19,
+    "FormGravingName": "Swimming2MedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 19,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming2FormGraving15((.png"
+  },
+  {
+    "Id": 20,
+    "FormGravingName": "Fighting1MedalFormGraving",
+    "Price": 0,
+    "ForWhatForm": 20,
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting1FormGraving15((.png"
   }
 ]
