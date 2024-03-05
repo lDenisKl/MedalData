@@ -4,7 +4,7 @@
     "Name": "Стандартная 25 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/1.jpg",
     "ClipSVG": "None",
-    "PossibleForms": [ 2, 4, 6 ],
+    "PossibleForms": [ 2, 4, 6,11,12,13,14 ],
     "Design": false,
     "Width": 25,
     "Price": 0
@@ -14,7 +14,7 @@
     "Name": "Со своим дизайном 25 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/3.jpg",
     "ClipSVG": "M 0 0 L 1800 0 L 1800 1800 L 0 1800 L 0 0 Z ",
-    "PossibleForms": [ 2, 4, 6 ],
+    "PossibleForms": [ 2, 4, 6,11,12,13,14 ],
     "Design": true,
     "Width": 25,
     "Price": 60
@@ -24,7 +24,7 @@
     "Name": "Стандартная 15 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/2.jpg",
     "ClipSVG": "None",
-    "PossibleForms": [ 1, 3, 5 ],
+    "PossibleForms": [ 1, 3, 5,8,9,10,15,16,17,18,19,20 ],
     "Design": false,
     "Width": 15,
     "Price": 0
@@ -34,7 +34,7 @@
     "Name": "None",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/mt.png",
     "ClipSVG": "None",
-    "PossibleForms": [ 4 ],
+    "PossibleForms": [ 7 ],
     "Design": true,
     "Width": 25,
     "Price": 0
