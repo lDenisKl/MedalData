@@ -133,7 +133,7 @@
     "Price": 0,
     "ForWhatForm": 11,
     "ReversClipSVG": "",
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/empty.png"
   },
   {
     "Id": 11,
@@ -141,7 +141,7 @@
     "Price": 0,
     "ForWhatForm": 12,
     "ReversClipSVG": "",
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/empty.png"
   },
   {
     "Id": 12,
@@ -149,7 +149,7 @@
     "Price": 0,
     "ForWhatForm": 13,
     "ReversClipSVG": "",
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/empty.png"
   },
   {
     "Id": 13,
@@ -157,7 +157,7 @@
     "Price": 0,
     "ForWhatForm": 14,
     "ReversClipSVG": "",
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/empty.png"
   },
   {
     "Id": 14,

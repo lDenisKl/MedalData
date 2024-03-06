@@ -93,7 +93,7 @@
     "Price": 0,
     "ForWhatForm": 12,
     "AversClipSVG": "",
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/empty.png"
   },
   {
     "Id": 12,
@@ -113,11 +113,11 @@
   },
   {
     "Id": 13,
-    "AversGravingName": "MetalTornadoMedalAversGraving",
+    "AversGravingName": "MetalTornadoMedalEMPTYAversGraving",
     "Price": 0,
     "ForWhatForm": 14,
     "AversClipSVG": "",
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/empty.png"
   },
   {
     "Id": 14,

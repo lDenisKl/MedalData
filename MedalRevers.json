@@ -32,28 +32,28 @@
     "ReversName": "WB01BlackMetalEMPTYRevers",
     "Price": 0,
     "ForWhatForm": 3,
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/empty15.png"
   },
   {
     "Id": 6,
     "ReversName": "WB01BlackMetal25EMPTYRevers",
     "Price": 0,
     "ForWhatForm": 4,
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/empty25.png"
   },
   {
     "Id": 7,
     "ReversName": "WB01BlackMetalBigEMPTYRevers",
     "Price": 0,
     "ForWhatForm": 5,
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/empty15.png"
   },
   {
     "Id": 8,
     "ReversName": "WB01BlackMetal25BigEMPTYRevers",
     "Price": 0,
     "ForWhatForm": 6,
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/empty15.png"
   },
   {
     "Id": 9,
@@ -78,31 +78,31 @@
   },
   {
     "Id": 12,
-    "ReversName": "BlackAkrilTriMedalRevers",
+    "ReversName": "BlackAkrilTriMedalEMPTYRevers",
     "Price": 0,
     "ForWhatForm": 11,
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/empty.png"
   },
   {
     "Id": 13,
     "ReversName": "BlackAkrilTornadoMedalEMPTYRevers",
     "Price": 0,
     "ForWhatForm": 12,
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/empty.png"
   },
   {
     "Id": 14,
     "ReversName": "LineMetalMedalEMPTYRevers",
     "Price": 0,
     "ForWhatForm": 13,
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/empty.png"
   },
   {
     "Id": 15,
     "ReversName": "MetalTornadoMedalEMPTYRevers",
     "Price": 0,
     "ForWhatForm": 14,
-    "Image": ""
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/empty.png"
   },
   {
     "Id": 16,
