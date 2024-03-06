@@ -9,7 +9,8 @@
     
     "ReversTitleStartX": 0,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 14.5,
+    "ReversTitleGridMarginLeft": 14.5,
+    "ReversTitleGridMarginUp": 0,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20
@@ -24,7 +25,8 @@
 
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
+    "ReversTitleGridMarginLeft": 14.5,
+    "ReversTitleGridMarginUp": 0,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20
