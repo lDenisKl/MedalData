@@ -76,16 +76,16 @@
     "AversGravingName": "BlackAkrilTriMedalAversGraving",
     "Price": 0,
     "ForWhatForm": 11,
-    "AversClipSVG": "M 194.2231 111.2364 L 165.0633 160.4021 C 162.4507 164.8073 162.4417 170.2401 165.0397 174.6534 L 194.0348 223.9121 C 196.6328 228.3256 201.4435 231.0493 206.6542 231.0578 L 264.8094 231.1506 C 270.0202 231.1591 274.8394 228.4501 277.4521 224.0452 L 306.6118 174.8792 C 309.2249 170.474 309.2338 165.0416 306.6359 160.6278 L 277.6402 111.3691 C 275.0422 106.9557 270.2321 104.232 265.0214 104.2234 L 206.866 104.1308 C 201.6553 104.1222 196.8361 106.8312 194.2231 111.2364 Z",
+    "AversClipSVG": " M 184.9582 105.9506 L 157.1965 152.7588 C 154.7092 156.9528 154.7006 162.1251 157.1741 166.3267 L 184.7788 213.2236 C 187.2523 217.4254 191.8323 220.0185 196.7931 220.0266 L 252.1599 220.115 C 257.1207 220.1231 261.7089 217.544 264.1963 213.3502 L 291.9578 166.5418 C 294.4457 162.3477 294.4541 157.1759 291.9808 152.9736 L 264.3754 106.0769 C 261.902 101.8752 257.3225 99.282 252.3617 99.2738 L 196.9948 99.1857 C 192.0339 99.1775 187.4458 101.7566 184.9582 105.9506 Z",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/BlackAkrilTriMedalReversGraving25((.png",
 
     "AversTitleStartX": -30,
     "AversTitleStartY": 90,
     "AversTitleGridMarginLeft":78,
     "AversTitleGridMarginUp": -2,
-    "AversTitleZoomScale": 1.7,
-    "AversTitleZoomX": 0,
-    "AversTitleZoomY": -130
+    "AversTitleZoomScale": 2,
+    "AversTitleZoomX": -145,
+    "AversTitleZoomY": -30
   },
   {
     "Id": 11,
@@ -100,8 +100,16 @@
     "AversGravingName": "LineMetalMedalAversGraving",
     "Price": 0,
     "ForWhatForm": 13,
-    "AversClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/LineMetalMedalReversGraving25((.png"
+    "AversClipSVG": "M 222.278 29.2441 C 234.5989 50.6796 246.9204 72.1148 259.232 93.5555 L 123.3471 93.556 C 111.0262 72.1203 98.7049 50.6853 86.3933 29.2446 L 222.278 29.2441 Z",
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/LineMetalMedalReversGraving25((.png",
+
+    "AversTitleStartX": -30,
+    "AversTitleStartY": 90,
+    "AversTitleGridMarginLeft":78,
+    "AversTitleGridMarginUp": -2,
+    "AversTitleZoomScale": 2,
+    "AversTitleZoomX": -145,
+    "AversTitleZoomY": -30
   },
   {
     "Id": 13,
