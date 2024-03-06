@@ -79,10 +79,10 @@
     "AversClipSVG": " M 184.9582 105.9506 L 157.1965 152.7588 C 154.7092 156.9528 154.7006 162.1251 157.1741 166.3267 L 184.7788 213.2236 C 187.2523 217.4254 191.8323 220.0185 196.7931 220.0266 L 252.1599 220.115 C 257.1207 220.1231 261.7089 217.544 264.1963 213.3502 L 291.9578 166.5418 C 294.4457 162.3477 294.4541 157.1759 291.9808 152.9736 L 264.3754 106.0769 C 261.902 101.8752 257.3225 99.282 252.3617 99.2738 L 196.9948 99.1857 C 192.0339 99.1775 187.4458 101.7566 184.9582 105.9506 Z",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/BlackAkrilTriMedalReversGraving25((.png",
 
-    "AversTitleStartX": -30,
-    "AversTitleStartY": 90,
-    "AversTitleGridMarginLeft":78,
-    "AversTitleGridMarginUp": -2,
+    "AversTitleStartX": 75,
+    "AversTitleStartY": 10,
+    "AversTitleGridMarginLeft":-2,
+    "AversTitleGridMarginUp": 12,
     "AversTitleZoomScale": 2,
     "AversTitleZoomX": -145,
     "AversTitleZoomY": -30
@@ -103,13 +103,13 @@
     "AversClipSVG": "M 222.278 29.2441 C 234.5989 50.6796 246.9204 72.1148 259.232 93.5555 L 123.3471 93.556 C 111.0262 72.1203 98.7049 50.6853 86.3933 29.2446 L 222.278 29.2441 Z",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/LineMetalMedalReversGraving25((.png",
 
-    "AversTitleStartX": -30,
-    "AversTitleStartY": 90,
-    "AversTitleGridMarginLeft":78,
-    "AversTitleGridMarginUp": -2,
-    "AversTitleZoomScale": 2,
-    "AversTitleZoomX": -145,
-    "AversTitleZoomY": -30
+    "AversTitleStartX": 25,
+    "AversTitleStartY": -90,
+    "AversTitleGridMarginLeft":-2,
+    "AversTitleGridMarginUp": 14 ,
+    "AversTitleZoomScale": 1.7,
+    "AversTitleZoomX": -37,
+    "AversTitleZoomY": 150
   },
   {
     "Id": 13,
