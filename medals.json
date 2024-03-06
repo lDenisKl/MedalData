@@ -22,16 +22,11 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 2,
-    "Name": "WB01 металл",
+    "Name": "WB01metal",
     "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.\nРазмер медали: 65 мм\nШирина ленты: 15 мм\nМатериал ленты: репс\nМасса медали: 75 гр\nТолщина медали: 2 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalSmall15(1.png",
 
@@ -45,18 +40,13 @@
     "AversTitle": false,
     "PossibleRevers": [ 5, 6, 7, 8 ],
     "PossibleReversGraving": [ 3, 4, 5, 6 ],
-    "ReversTitle": true,
+    "ReversTitle": true
 
 
-
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 3,
-    "Name": "Спортивная медаль",
+    "Name": "SportMedal",
     "Details": "",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedal15(1.png",
 
@@ -77,12 +67,7 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 4,
@@ -107,12 +92,7 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 5,
@@ -137,12 +117,7 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 6,
@@ -167,12 +142,8 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
+    "ReversTitleZoomY": -20
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 7,
@@ -197,12 +168,8 @@
     "ReversTitleGridMargin": -1,
     "ReversTitleZoomScale": -1,
     "ReversTitleZoomX": -1,
-    "ReversTitleZoomY": -1,
+    "ReversTitleZoomY": -1
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 8,
@@ -227,12 +194,8 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
+    "ReversTitleZoomY": -20
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 9,
@@ -257,12 +220,8 @@
     "ReversTitleGridMargin": -1,
     "ReversTitleZoomScale": -1,
     "ReversTitleZoomX": -1,
-    "ReversTitleZoomY": -1,
+    "ReversTitleZoomY": -1
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 10,
@@ -287,12 +246,8 @@
     "ReversTitleGridMargin": 0,
     "ReversTitleZoomScale": 2.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": 165,
+    "ReversTitleZoomY": 165
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 11,
@@ -317,12 +272,8 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
+    "ReversTitleZoomY": -20
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 12,
@@ -347,12 +298,8 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
+    "ReversTitleZoomY": -20
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 13,
@@ -377,12 +324,8 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
+    "ReversTitleZoomY": -20
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 14,
@@ -407,12 +350,8 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
+    "ReversTitleZoomY": -20
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 15,
@@ -437,12 +376,8 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
+    "ReversTitleZoomY": -20
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   },
   {
     "Id": 16,
@@ -467,11 +402,7 @@
     "ReversTitleGridMargin": 29,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
+    "ReversTitleZoomY": -20
 
-    "PDFposX": 0,
-    "PDFposY": 0,
-    "PDFmultiplierX": 0,
-    "PDFmultiplierY": 0
   }
 ]
