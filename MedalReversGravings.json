@@ -15,7 +15,8 @@
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
-    "PdfMultiplier": 1.059787370066062
+    "PdfMultiplierY": 1.059787370066062,
+    "PdfMultiplierX": 1.059787370066062
   },
   {
     "Id": 2,
@@ -33,7 +34,8 @@
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
-    "PdfMultiplier": 1.06284723871029
+    "PdfMultiplierY": 1.06284723871029,
+    "PdfMultiplierX": 1.06497799976216
   },
   {
     "Id": 3,
