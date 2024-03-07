@@ -16,13 +16,7 @@
     "PossibleRevers": [ 1, 2 ],
     "PossibleReversGraving": [ 1, 2 ],
     "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    z
   },
   {
     "Id": 2,
@@ -60,14 +54,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 9 ],
     "PossibleReversGraving": [ 7 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": true
   },
   {
     "Id": 4,
@@ -85,14 +72,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 10 ],
     "PossibleReversGraving": [ 8 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": true
   },
   {
     "Id": 5,
@@ -110,14 +90,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 11 ],
     "PossibleReversGraving": [ 9 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": true
   },
   {
     "Id": 6,
@@ -130,19 +103,12 @@
     "PossibleForms": [ 11 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
     "PossibleFormGraving": [ 11 ],
-    "PossibleAvers": [ 12, 13 ],
+    "PossibleAvers": [ 12 ],
     "PossibleAversGraving": [ 10 ],
     "AversTitle": true,
     "PossibleRevers": [ 12 ],
     "PossibleReversGraving": [ 10 ],
-    "ReversTitle": false,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": false
 
   },
   {
@@ -161,14 +127,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 13 ],
     "PossibleReversGraving": [ 11 ],
-    "ReversTitle": false,
-
-    "ReversTitleStartX": -1,
-    "ReversTitleStartY": -1,
-    "ReversTitleGridMargin": -1,
-    "ReversTitleZoomScale": -1,
-    "ReversTitleZoomX": -1,
-    "ReversTitleZoomY": -1
+    "ReversTitle": false
 
   },
   {
@@ -187,14 +146,7 @@
     "AversTitle": true,
     "PossibleRevers": [ 14 ],
     "PossibleReversGraving": [ 12 ],
-    "ReversTitle": false,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": false
 
   },
   {
@@ -213,14 +165,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 15 ],
     "PossibleReversGraving": [ 13 ],
-    "ReversTitle": false,
-
-    "ReversTitleStartX": -1,
-    "ReversTitleStartY": -1,
-    "ReversTitleGridMargin": -1,
-    "ReversTitleZoomScale": -1,
-    "ReversTitleZoomX": -1,
-    "ReversTitleZoomY": -1
+    "ReversTitle": false
 
   },
   {
@@ -239,14 +184,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 3 ],
     "PossibleReversGraving": [ 20 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": 0,
-    "ReversTitleStartY": -70,
-    "ReversTitleGridMargin": 0,
-    "ReversTitleZoomScale": 2.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": 165
+    "ReversTitle": true
 
   },
   {
@@ -265,14 +203,8 @@
     "AversTitle": false,
     "PossibleRevers": [ 16 ],
     "PossibleReversGraving": [ 14 ],
-    "ReversTitle": true,
+    "ReversTitle": true
 
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
 
   },
   {
@@ -291,14 +223,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 17 ],
     "PossibleReversGraving": [ 15 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": true
 
   },
   {
@@ -317,14 +242,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 18 ],
     "PossibleReversGraving": [ 16 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": true
 
   },
   {
@@ -343,14 +261,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 19 ],
     "PossibleReversGraving": [ 17 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": true
 
   },
   {
@@ -369,14 +280,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 20 ],
     "PossibleReversGraving": [ 18 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": true
 
   },
   {
@@ -395,14 +299,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 21 ],
     "PossibleReversGraving": [ 19 ],
-    "ReversTitle": true,
-
-    "ReversTitleStartX": -14.5,
-    "ReversTitleStartY": 0,
-    "ReversTitleGridMargin": 29,
-    "ReversTitleZoomScale": 1.5,
-    "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20
+    "ReversTitle": true
 
   }
 ]
