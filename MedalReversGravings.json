@@ -310,6 +310,15 @@
     "Price": 0,
     "ForWhatForm": 7,
     "ReversClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueReversGraving.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueReversGraving.png",
+    
+    "ReversTitleStartX": -22,
+    "ReversTitleStartY": 90,
+    "ReversTitleGridMarginLeft": 0,
+    "ReversTitleGridMarginUp": 0,
+    "ReversTitleZoomScale": 1.7,
+    "ReversTitleZoomX": -18,
+    "ReversTitleZoomY": -130,
+    "PdfMultiplier": -1
   }
 ]

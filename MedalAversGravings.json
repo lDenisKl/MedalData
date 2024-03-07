@@ -85,7 +85,7 @@
     "Scale": 0.99,
     "AversTitleZoomScale": 2,
     "AversTitleZoomX": -145,
-    
+
     "AversTitleZoomY": -30,
 
     "PdfMultiplierY":1.151709085528263,
@@ -109,11 +109,15 @@
 
     "AversTitleStartX": 25,
     "AversTitleStartY": -90,
-    "AversTitleGridMarginLeft":-2,
-    "AversTitleGridMarginUp": 14 ,
+    "AversTitleGridMarginLeft":0,
+    "AversTitleGridMarginUp": 10 ,
+    "Scale": 0.975,
     "AversTitleZoomScale": 1.7,
     "AversTitleZoomX": -37,
-    "AversTitleZoomY": 150
+    "AversTitleZoomY": 150,
+
+    "PdfMultiplierY":1.117100111856823,
+    "PdfMultiplierX":1.118752603082049
   },
   {
     "Id": 13,
