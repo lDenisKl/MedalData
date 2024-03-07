@@ -9,12 +9,13 @@
 
     "ReversTitleStartX": 0,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": 0.5,
+    "ReversTitleGridMarginUp": 1,
+    "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
-    "PdfMultiplier": -1
+    "PdfMultiplier": 1.059787370066062
   },
   {
     "Id": 2,
@@ -26,8 +27,9 @@
 
     "ReversTitleStartX": 0,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": 0.5,
+    "ReversTitleGridMarginUp": 1,
+    "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
@@ -43,8 +45,9 @@
 
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft": -1,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -2,
+    "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
@@ -60,8 +63,9 @@
 
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft": -1,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -2,
+    "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
@@ -77,8 +81,9 @@
 
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft": -1.55,
+    "ReversTitleGridMarginLeft": -3,
     "ReversTitleGridMarginUp": -2,
+    "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
@@ -94,8 +99,9 @@
 
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -2,
+    "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
@@ -111,8 +117,9 @@
 
     "ReversTitleStartX": -14.5,
     "ReversTitleStartY": 0,
-    "ReversTitleGridMarginLeft": 0,
+    "ReversTitleGridMarginLeft": -2,
     "ReversTitleGridMarginUp": 0,
+    "Scale": 0.99,
     "ReversTitleZoomScale": 1.2,
     "ReversTitleZoomX": 25,
     "ReversTitleZoomY": -10,
