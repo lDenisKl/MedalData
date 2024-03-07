@@ -33,7 +33,7 @@
     "Price": 0,
     "Multiplier": 1,
     "MinFontSize": 23,
-    "MaxFontSize": 90,
+    "MaxFontSize": 45,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalFormSmall25(1.png"
   },
 
@@ -41,9 +41,9 @@
     "Id": 5,
     "Name": "WB01BlackMetalFormBig",
     "Price": 0,
-    "Multiplier": 1,
-    "MinFontSize": 18,
-    "MaxFontSize": 90,
+    "Multiplier": 0.9,
+    "MinFontSize": 16,
+    "MaxFontSize": 45,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalFormBig15(1.png"
   },
 
@@ -51,9 +51,9 @@
     "Id": 6,
     "Name": "WB01BlackMetal25FormBig",
     "Price": 0,
-    "Multiplier": 1,
-    "MinFontSize": 18,
-    "MaxFontSize": 90,
+    "Multiplier": 0.9,
+    "MinFontSize": 16,
+    "MaxFontSize": 45,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalFormBig25(1.png"
   },
   {
@@ -62,7 +62,7 @@
     "Price": 0,
     "Multiplier": 0.6,
     "MinFontSize": 14,
-    "MaxFontSize": 90,
+    "MaxFontSize": 60,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueForm((.png"
   },
   {
@@ -80,7 +80,7 @@
     "Price": 0,
     "Multiplier": 1,
     "MinFontSize": 23,
-    "MaxFontSize": 90,
+    "MaxFontSize": 75,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalForm((.png"
   },
   {

@@ -53,7 +53,8 @@
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
-    "PdfMultiplier": -1
+    "PdfMultiplierY": 1.064518430439952,
+    "PdfMultiplierX": 1.065422784930627
   },
   {
     "Id": 4,
@@ -71,7 +72,8 @@
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
-    "PdfMultiplier": -1
+    "PdfMultiplierY": 1.07359006330328,
+    "PdfMultiplierX": 1.073139158576052
   },
   {
     "Id": 5,
@@ -89,7 +91,8 @@
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
-    "PdfMultiplier": -1
+    "PdfMultiplierY": 1.243672010039543,
+    "PdfMultiplierX": 1.243596420624023
   },
   {
     "Id": 6,
@@ -107,7 +110,8 @@
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -20,
-    "PdfMultiplier": -1
+    "PdfMultiplierY": 1.243672010039543,
+    "PdfMultiplierX": 1.243596420624023
   },
   {
     "Id": 7,
@@ -125,7 +129,8 @@
     "ReversTitleZoomScale": 1.2,
     "ReversTitleZoomX": 25,
     "ReversTitleZoomY": -10,
-    "PdfMultiplier": -1
+    "PdfMultiplierY": 1.038637035785204,
+    "PdfMultiplierX":1.039303598462793
   },
   {
     "Id": 8,
@@ -139,10 +144,12 @@
     "ReversTitleStartY": -20,
     "ReversTitleGridMarginLeft": 0,
     "ReversTitleGridMarginUp": 0,
+    "Scale": 0.99,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": 20,
-    "PdfMultiplier": -1
+    "PdfMultiplierY":0.9237292387977319,
+    "PdfMultiplierX":0.9266942049808429
   },
   {
     "Id": 9,
@@ -154,12 +161,14 @@
 
     "ReversTitleStartX": 25,
     "ReversTitleStartY": 35,
-    "ReversTitleGridMarginLeft": 0,
+    "ReversTitleGridMarginLeft": -1,
     "ReversTitleGridMarginUp": 0,
+    "Scale": 0.98,
     "ReversTitleZoomScale": 1.2,
     "ReversTitleZoomX": -25,
     "ReversTitleZoomY": -40,
-    "PdfMultiplier": -1
+    "PdfMultiplierY":1.078461971398603,
+    "PdfMultiplierX":1.076180396962439
   },
   {
     "Id": 10,
