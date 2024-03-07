@@ -15,7 +15,7 @@
     "AversTitle": false,
     "PossibleRevers": [ 1, 2 ],
     "PossibleReversGraving": [ 1, 2 ],
-    "ReversTitle": true,
+    "ReversTitle": true
   },
   {
     "Id": 2,
