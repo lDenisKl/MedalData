@@ -329,14 +329,14 @@
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueReversGraving.png",
     
     "ReversTitleStartX": 0,
-    "ReversTitleStartY": 150,
+    "ReversTitleStartY": -40,
     "ReversTitleGridMarginLeft": -3,
     "ReversTitleGridMarginUp": -4,
     "Scale": 0.98,
     "ReversTitleZoomScale": 2.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": 165,
-    "PdfMultiplierY": 1,
-    "PdfMultiplierX":1
+    "PdfMultiplierY": 2.627357538063891,
+    "PdfMultiplierX":2.628105527231529
   }
 ]
