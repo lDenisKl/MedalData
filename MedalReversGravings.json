@@ -336,7 +336,7 @@
     "ReversTitleZoomScale": 2.5,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": 165,
-    "PdfMultiplierY": 0,
-    "PdfMultiplierX":0
+    "PdfMultiplierY": 1,
+    "PdfMultiplierX":1
   }
 ]
