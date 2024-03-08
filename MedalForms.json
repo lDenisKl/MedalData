@@ -132,54 +132,54 @@
     "Id": 15,
     "FormName": "FootBall1MedalForm",
     "Price": 0,
-    "Multiplier": 1,
+    "Multiplier": 0.8,
     "MinFontSize": 23,
-    "MaxFontSize": 90,
+    "MaxFontSize": 60,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1Form15((.png"
   },
   {
     "Id": 16,
     "FormName": "FootBall2MedalForm",
     "Price": 0,
-    "Multiplier": 1,
+    "Multiplier":  0.8,
     "MinFontSize": 23,
-    "MaxFontSize": 90,
+    "MaxFontSize": 60,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall2Form15((.png"
   },
   {
     "Id": 17,
     "FormName": "Volleyball1MedalForm",
     "Price": 0,
-    "Multiplier": 1,
+    "Multiplier":  0.8,
     "MinFontSize": 23,
-    "MaxFontSize": 90,
+    "MaxFontSize": 60,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall1Form15((.png"
   },
   {
     "Id": 18,
     "FormName": "Swimming1MedalForm",
     "Price": 0,
-    "Multiplier": 1,
+    "Multiplier":  0.8,
     "MinFontSize": 23,
-    "MaxFontSize": 90,
+    "MaxFontSize": 60,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming1Form15((.png"
   },
   {
     "Id": 19,
     "FormName": "Swimming2MedalForm",
     "Price": 0,
-    "Multiplier": 1,
+    "Multiplier":  0.8,
     "MinFontSize": 23,
-    "MaxFontSize": 90,
+    "MaxFontSize": 60,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming2Form15((.png"
   },
   {
     "Id": 20,
     "FormName": "Fighting2MedalForm",
     "Price": 0,
-    "Multiplier": 1,
+    "Multiplier": 0.8,
     "MinFontSize": 23,
-    "MaxFontSize": 90,
+    "MaxFontSize": 60,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting1Form15((.png"
   }
 ]

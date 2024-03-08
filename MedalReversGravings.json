@@ -212,12 +212,15 @@
 
     "ReversTitleStartX": -40,
     "ReversTitleStartY": 90,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -3,
+    "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": 18,
     "ReversTitleZoomY": -130,
-    "PdfMultiplier": -1
+
+    "PdfMultiplierY":0.9826167621198677,
+    "PdfMultiplierX":0.9810262592379056
   },
   {
     "Id": 15,
