@@ -81,7 +81,7 @@
     "AversTitleStartX": 75,
     "AversTitleStartY": 10,
     "AversTitleGridMarginLeft":0,
-    "AversTitleGridMarginUp": 11,
+    "AversTitleGridMarginUp": 0,
     "Scale": 0.99,
     "AversTitleZoomScale": 2,
     "AversTitleZoomX": -145,
