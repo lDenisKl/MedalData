@@ -232,12 +232,15 @@
 
     "ReversTitleStartX": -22,
     "ReversTitleStartY": 90,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -2,
+    "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": -18,
     "ReversTitleZoomY": -130,
-    "PdfMultiplier": -1
+    
+    "PdfMultiplierY":0.9792271700548564 ,
+    "PdfMultiplierX":0.9808989058851311
   },
   {
     "Id": 16,
@@ -249,12 +252,15 @@
 
     "ReversTitleStartX": -35,
     "ReversTitleStartY": 90,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -3,
+    "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": 11,
     "ReversTitleZoomY": -130,
-    "PdfMultiplier": -1
+    
+    "PdfMultiplierY":0.957640061088337 ,
+    "PdfMultiplierX":0.9574618650731247
   },
   {
     "Id": 17,
@@ -266,12 +272,15 @@
 
     "ReversTitleStartX": -28,
     "ReversTitleStartY": 90,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -2,
+    "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": -10,
     "ReversTitleZoomY": -130,
-    "PdfMultiplier": -1
+    
+    "PdfMultiplierY":0.9831397224911262 ,
+    "PdfMultiplierX":0.9814965486470171
   },
   {
     "Id": 18,
@@ -283,12 +292,14 @@
 
     "ReversTitleStartX": -28,
     "ReversTitleStartY": 90,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -2,
+    "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": -10,
     "ReversTitleZoomY": -130,
-    "PdfMultiplier": -1
+    "PdfMultiplierY":0.9827801750211719 ,
+    "PdfMultiplierX":0.9819914419972173
   },
   {
     "Id": 19,
@@ -300,12 +311,14 @@
 
     "ReversTitleStartX": -30,
     "ReversTitleStartY": 90,
-    "ReversTitleGridMarginLeft": 0,
-    "ReversTitleGridMarginUp": 0,
+    "ReversTitleGridMarginLeft": -3,
+    "ReversTitleGridMarginUp": -2,
+    "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": 0,
     "ReversTitleZoomY": -130,
-    "PdfMultiplier": -1
+    "PdfMultiplierY": 0.9825820498346908,
+    "PdfMultiplierX":0.9819580860339304
   },
   {
     "Id": 20,
