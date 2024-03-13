@@ -7,7 +7,10 @@
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01Form15((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01Form15((.png",
+    "RealWidth": 757,
+    "RealHeight": 836
+
   },
   {
     "Id": 2,
@@ -16,7 +19,9 @@
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01Form25((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01Form25((.png",
+    "RealWidth": 757,
+    "RealHeight": 839
   },
   {
     "Id": 3,
@@ -25,7 +30,9 @@
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 45,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalFormSmall15(1.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalFormSmall15(1.png",
+    "RealWidth": 756,
+    "RealHeight": 839
   },
   {
     "Id": 4,
@@ -34,7 +41,9 @@
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 45,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalFormSmall25(1.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalFormSmall25(1.png",
+    "RealWidth": 755,
+    "RealHeight": 844
   },
 
   {
@@ -44,7 +53,9 @@
     "Multiplier": 0.9,
     "MinFontSize": 16,
     "MaxFontSize": 45,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalFormBig15(1.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalFormBig15(1.png",
+    "RealWidth": 887,
+    "RealHeight": 980
   },
 
   {
@@ -54,7 +65,9 @@
     "Multiplier": 0.9,
     "MinFontSize": 16,
     "MaxFontSize": 45,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalFormBig25(1.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalFormBig25(1.png",
+    "RealWidth": 887,
+    "RealHeight": 980
   },
   {
     "Id": 7,
@@ -63,7 +76,9 @@
     "Multiplier": 0.6,
     "MinFontSize": 14,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueForm((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueForm((.png",
+    "RealWidth": 1199,
+    "RealHeight": 2070
   },
   {
     "Id": 8,
@@ -72,25 +87,31 @@
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 90,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedalForm((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedalForm((.png",
+    "RealWidth": 790,
+    "RealHeight": 820
   },
   {
     "Id": 9,
     "FormName": "WreathMedalForm",
     "Price": 0,
-    "Multiplier": 1,
+    "Multiplier": 0.8,
     "MinFontSize": 23,
     "MaxFontSize": 75,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalForm((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalForm((.png",
+    "RealWidth": 729,
+    "RealHeight": 710
   },
   {
     "Id": 10,
     "FormName": "ColdMedalForm",
     "Price": 0,
-    "Multiplier": 1,
+    "Multiplier": 0.8,
     "MinFontSize": 23,
     "MaxFontSize": 65,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalForm((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalForm((.png",
+    "RealWidth": 849,
+    "RealHeight": 745
   },
   {
     "Id": 11,
@@ -99,7 +120,9 @@
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 40,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/BlackAkrilTriMedalForm(1.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/BlackAkrilTriMedalForm(1.png",
+    "RealWidth": 912,
+    "RealHeight": 869
   },
   {
     "Id": 12,
@@ -108,7 +131,9 @@
     "Multiplier": 1,
     "MinFontSize": 0,
     "MaxFontSize": 0,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/BlackAkrilTornadoMedalForm25(1.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/BlackAkrilTornadoMedalForm25(1.png",
+    "RealWidth": 769,
+    "RealHeight": 936
   },
   {
     "Id": 13,
@@ -117,7 +142,9 @@
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 90,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/LineMetalMedalForm25(1.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/LineMetalMedalForm25(1.png",
+    "RealWidth": 882,
+    "RealHeight": 835
   },
   {
     "Id": 14,
@@ -126,7 +153,9 @@
     "Multiplier": 1,
     "MinFontSize": 23,
     "MaxFontSize": 90,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/MetalTornadoMedalForm25(1.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/MetalTornadoMedalForm25(1.png",
+    "RealWidth": 769,
+    "RealHeight": 936
   },
   {
     "Id": 15,
@@ -135,43 +164,53 @@
     "Multiplier": 0.8,
     "MinFontSize": 23,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1Form15((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1Form15((.png",
+    "RealWidth": 623,
+    "RealHeight": 773
   },
   {
     "Id": 16,
     "FormName": "FootBall2MedalForm",
     "Price": 0,
-    "Multiplier":  0.8,
+    "Multiplier": 0.8,
     "MinFontSize": 23,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall2Form15((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall2Form15((.png",
+    "RealWidth": 716,
+    "RealHeight": 774
   },
   {
     "Id": 17,
     "FormName": "Volleyball1MedalForm",
     "Price": 0,
-    "Multiplier":  0.8,
+    "Multiplier": 0.8,
     "MinFontSize": 23,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall1Form15((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall1Form15((.png",
+    "RealWidth": 748,
+    "RealHeight": 773
   },
   {
     "Id": 18,
     "FormName": "Swimming1MedalForm",
     "Price": 0,
-    "Multiplier":  0.8,
+    "Multiplier": 0.8,
     "MinFontSize": 23,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming1Form15((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming1Form15((.png",
+    "RealWidth": 750,
+    "RealHeight": 774
   },
   {
     "Id": 19,
     "FormName": "Swimming2MedalForm",
     "Price": 0,
-    "Multiplier":  0.8,
+    "Multiplier": 0.8,
     "MinFontSize": 23,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming2Form15((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming2Form15((.png",
+    "RealWidth": 638,
+    "RealHeight": 774
   },
   {
     "Id": 20,
@@ -180,6 +219,8 @@
     "Multiplier": 0.8,
     "MinFontSize": 23,
     "MaxFontSize": 60,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting1Form15((.png"
+    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting1Form15((.png",
+    "RealWidth": 567,
+    "RealHeight": 774
   }
 ]
