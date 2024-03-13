@@ -74,7 +74,7 @@
     "FormName": "WB01statueForm",
     "Price": 0,
     "Multiplier": 0.6,
-    "MinFontSize": 14,
+    "MinFontSize": 10,
     "MaxFontSize": 60,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueForm((.png",
     "RealWidth": 1199,
