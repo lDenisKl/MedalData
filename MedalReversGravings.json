@@ -14,9 +14,7 @@
     "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-    "PdfMultiplierY": 1.059787370066062,
-    "PdfMultiplierX": 1.059787370066062
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 2,
@@ -33,9 +31,7 @@
     "Scale": 0.974,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-    "PdfMultiplierY": 1.06284723871029,
-    "PdfMultiplierX": 1.06497799976216
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 3,
@@ -52,9 +48,7 @@
     "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-    "PdfMultiplierY": 1.064518430439952,
-    "PdfMultiplierX": 1.065422784930627
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 4,
@@ -71,9 +65,7 @@
     "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-    "PdfMultiplierY": 1.07359006330328,
-    "PdfMultiplierX": 1.073139158576052
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 5,
@@ -90,9 +82,7 @@
     "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-    "PdfMultiplierY": 1.243672010039543,
-    "PdfMultiplierX": 1.243596420624023
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 6,
@@ -109,9 +99,7 @@
     "Scale": 0.975,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -20,
-    "PdfMultiplierY": 1.243672010039543,
-    "PdfMultiplierX": 1.243596420624023
+    "ReversTitleZoomY": -20
   },
   {
     "Id": 7,
@@ -128,9 +116,7 @@
     "Scale": 0.99,
     "ReversTitleZoomScale": 1.2,
     "ReversTitleZoomX": 25,
-    "ReversTitleZoomY": -10,
-    "PdfMultiplierY": 1.038637035785204,
-    "PdfMultiplierX":1.039303598462793
+    "ReversTitleZoomY": -10
   },
   {
     "Id": 8,
@@ -147,9 +133,7 @@
     "Scale": 0.99,
     "ReversTitleZoomScale": 1.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": 20,
-    "PdfMultiplierY":0.9237292387977319,
-    "PdfMultiplierX":0.9266942049808429
+    "ReversTitleZoomY": 20
   },
   {
     "Id": 9,
@@ -166,9 +150,7 @@
     "Scale": 0.98,
     "ReversTitleZoomScale": 1.2,
     "ReversTitleZoomX": -25,
-    "ReversTitleZoomY": -40,
-    "PdfMultiplierY":1.078461971398603,
-    "PdfMultiplierX":1.076180396962439
+    "ReversTitleZoomY": -40
   },
   {
     "Id": 10,
@@ -217,10 +199,7 @@
     "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": 18,
-    "ReversTitleZoomY": -130,
-
-    "PdfMultiplierY":0.9826167621198677,
-    "PdfMultiplierX":0.9810262592379056
+    "ReversTitleZoomY": -130
   },
   {
     "Id": 15,
@@ -237,10 +216,7 @@
     "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": -18,
-    "ReversTitleZoomY": -130,
-    
-    "PdfMultiplierY":0.9792271700548564 ,
-    "PdfMultiplierX":0.9808989058851311
+    "ReversTitleZoomY": -130
   },
   {
     "Id": 16,
@@ -257,10 +233,7 @@
     "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": 11,
-    "ReversTitleZoomY": -130,
-    
-    "PdfMultiplierY":0.957640061088337 ,
-    "PdfMultiplierX":0.9574618650731247
+    "ReversTitleZoomY": -130
   },
   {
     "Id": 17,
@@ -277,10 +250,7 @@
     "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": -10,
-    "ReversTitleZoomY": -130,
-    
-    "PdfMultiplierY":0.9831397224911262 ,
-    "PdfMultiplierX":0.9814965486470171
+    "ReversTitleZoomY": -130
   },
   {
     "Id": 18,
@@ -297,9 +267,7 @@
     "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": -10,
-    "ReversTitleZoomY": -130,
-    "PdfMultiplierY":0.9827801750211719 ,
-    "PdfMultiplierX":0.9819914419972173
+    "ReversTitleZoomY": -130
   },
   {
     "Id": 19,
@@ -316,9 +284,7 @@
     "Scale": 1,
     "ReversTitleZoomScale": 1.7,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": -130,
-    "PdfMultiplierY": 0.9825820498346908,
-    "PdfMultiplierX":0.9819580860339304
+    "ReversTitleZoomY": -130
   },
   {
     "Id": 20,
@@ -335,8 +301,6 @@
     "Scale": 0.98,
     "ReversTitleZoomScale": 2.5,
     "ReversTitleZoomX": 0,
-    "ReversTitleZoomY": 165,
-    "PdfMultiplierY": 2.627357538063891,
-    "PdfMultiplierX":2.628105527231529
+    "ReversTitleZoomY": 165
   }
 ]
