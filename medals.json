@@ -8,7 +8,7 @@
     "PossibleSizes": [ 1 ],
     "PossibleTapes": [ 1, 2, 3 ],
     "PossibleForms": [ 1, 2 ],
-    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,16,17 ],
     "PossibleFormGraving": [ 1, 2 ],
     "PossibleAvers": [ 1, 2 ],
     "PossibleAversGraving": [ 1, 2 ],
