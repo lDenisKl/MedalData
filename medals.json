@@ -6,7 +6,7 @@
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB0115(1.png",
 
     "PossibleSizes": [ 1 ],
-    "PossibleTapes": [ 1],//2, 3 ],
+    "PossibleTapes": [ 1],
     "PossibleForms": [ 1, 2 ],
     "PossibleImgs": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,16,17 ],
     "PossibleFormGraving": [ 1, 2 ],
