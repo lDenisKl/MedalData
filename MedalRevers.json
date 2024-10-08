@@ -2,6 +2,7 @@
   {
     "Id": 1,
     "ReversName": "WB01Revers15",
+    "SvgPath": "M 262.294 705.3995 L 212.494 791.6545 C 204.338 805.781 204.338 823.1865 212.494 837.313 L 262.2895 923.5575 L 262.2895 1026.6155 C 262.2895 1042.93 270.9915 1058.0025 285.1205 1066.1585 L 374.371 1117.689 L 424.631 1204.742 C 432.787 1218.8705 447.86 1227.572 464.1715 1227.572 L 564.6875 1227.5655 L 652.549 1278.294 C 659.8905 1282.5325 668.1155 1284.5685 676.307 1284.401 C 684.4985 1284.5685 692.7235 1282.5325 700.0655 1278.294 L 787.918 1227.572 L 888.4425 1227.572 C 904.756 1227.572 919.829 1218.8705 927.9855 1204.742 L 978.247 1117.6845 L 1067.494 1066.1585 C 1081.6225 1058.0005 1090.324 1042.928 1090.324 1026.6155 L 1090.324 923.5635 L 1140.1205 837.313 C 1148.276 823.1865 1148.276 805.781 1140.1205 791.648 L 1090.324 705.404 L 1090.324 602.3455 C 1090.324 586.0315 1081.6225 570.9585 1067.494 562.8025 L 978.243 511.2725 L 927.9855 424.2235 C 919.829 410.097 904.756 401.3955 888.4425 401.3895 L 787.9265 401.3955 L 700.0655 350.6675 C 692.7235 346.429 684.4985 344.3925 676.307 344.56 C 668.1155 344.3925 659.8905 346.429 652.549 350.6675 L 564.696 401.3895 L 464.1715 401.3955 C 447.86 401.3955 432.787 410.097 424.629 424.2195 L 374.3665 511.2765 L 285.1205 562.8025 C 270.9915 570.9605 262.2895 586.0335 262.2895 602.3455 L 262.294 705.3995 Z",
     "Price": 0,
     "ForWhatForm": 1,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01Avers15(1.png"
@@ -9,6 +10,7 @@
   {
     "Id": 2,
     "ReversName": "WB01Revers25",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 2,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01Avers25(1.png"
@@ -16,6 +18,7 @@
   {
     "Id": 3,
     "ReversName": "WB01statueRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 7,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueAvers(1.png"
@@ -23,6 +26,7 @@
   {
     "Id": 4,
     "ReversName": "empty",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": -1,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/mt.png"
@@ -30,6 +34,7 @@
   {
     "Id": 5,
     "ReversName": "WB01BlackMetalEMPTYRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 3,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/empty15.png"
@@ -37,6 +42,7 @@
   {
     "Id": 6,
     "ReversName": "WB01BlackMetal25EMPTYRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 4,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/empty25.png"
@@ -44,6 +50,7 @@
   {
     "Id": 7,
     "ReversName": "WB01BlackMetalBigEMPTYRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 5,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/empty15.png"
@@ -51,6 +58,7 @@
   {
     "Id": 8,
     "ReversName": "WB01BlackMetal25BigEMPTYRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 6,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/empty15.png"
@@ -58,6 +66,7 @@
   {
     "Id": 9,
     "ReversName": "SportMedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 8,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedalAvers(1.png"
@@ -65,6 +74,7 @@
   {
     "Id": 10,
     "ReversName": "WreathMedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 9,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalAvers(1.png"
@@ -72,6 +82,7 @@
   {
     "Id": 11,
     "ReversName": "ColdMedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 10,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalAvers(1.png"
@@ -79,6 +90,7 @@
   {
     "Id": 12,
     "ReversName": "BlackAkrilTriMedalEMPTYRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 11,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/empty.png"
@@ -86,6 +98,7 @@
   {
     "Id": 13,
     "ReversName": "BlackAkrilTornadoMedalEMPTYRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 12,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/empty.png"
@@ -93,6 +106,7 @@
   {
     "Id": 14,
     "ReversName": "LineMetalMedalEMPTYRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 13,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/empty.png"
@@ -100,6 +114,7 @@
   {
     "Id": 15,
     "ReversName": "MetalTornadoMedalEMPTYRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 14,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/empty.png"
@@ -107,6 +122,7 @@
   {
     "Id": 16,
     "ReversName": "FootBall1MedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 15,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1Avers15(1.png"
@@ -114,6 +130,7 @@
   {
     "Id": 17,
     "ReversName": "FootBall2MedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 16,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall2Avers15(1.png"
@@ -121,6 +138,7 @@
   {
     "Id": 18,
     "ReversName": "VolleyBall1MedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 17,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall1Avers15(1.png"
@@ -128,6 +146,7 @@
   {
     "Id": 19,
     "ReversName": "Swimming1MedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 18,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming1Avers15(1.png"
@@ -135,6 +154,7 @@
   {
     "Id": 20,
     "ReversName": "Swimming2MedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 19,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming2Avers15(1.png"
@@ -142,6 +162,7 @@
   {
     "Id": 21,
     "ReversName": "Fighting1MedalRevers",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 20,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting1Avers15(1.png"
