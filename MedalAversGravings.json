@@ -2,172 +2,165 @@
   {
     "Id": 1,
     "GravingName": "WB01AversGraving15",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 1,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01AversGraving15(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 2,
     "GravingName": "WB01AversGraving25",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 2,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB01AversGraving25(1.png"
+    "ClipSVG": ""
+
   },
   {
     "Id": 3,
     "GravingName": "WB01BlackMetalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 3,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalAversGravingSmall15(1.png"
+    "ClipSVG": ""
+
   },
   {
     "Id": 4,
     "GravingName": "WB01BlackMetal25AversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 4,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalAversGravingSmall25(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 5,
     "GravingName": "WB01BlackMetalBigAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 5,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalAversGravingBig(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 6,
     "GravingName": "WB01BlackMetal25BigAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 6,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalBig/WB01blackMetalAversGravingBig(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 7,
     "GravingName": "SportMedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 8,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedal/SportMedalAversGraving(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 8,
     "GravingName": "WreathMedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 9,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalAversGraving(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 9,
     "GravingName": "ColdMedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 10,
-    "ClipSVG": " ",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalAversGraving(1.png"
+    "ClipSVG": " "
   },
   {
     "Id": 10,
     "GravingName": "BlackAkrilTriMedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 11,
-    "ClipSVG": "M 183.8427 105.3143 L 156.2495 151.8386 C 153.7772 156.0072 153.7687 161.1481 156.2271 165.3244 L 183.6646 211.9368 C 186.123 216.1131 190.6752 218.6905 195.6059 218.6986 L 250.637 218.7863 C 255.5678 218.7944 260.128 216.231 262.6004 212.0627 L 290.1936 165.538 C 292.6663 161.3694 292.6748 156.229 290.2164 152.0523 L 262.7784 105.4398 C 260.3201 101.2635 255.7683 98.6861 250.8375 98.678 L 195.8064 98.5903 C 190.8757 98.5822 186.3154 101.1457 183.8427 105.3143 Z",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTriMedal/BlackAkrilTriMedalReversGraving25((.png",
-    "StartX": 75,
-    "StartY": 10,
-    "ZoomScale": 2,
-    "ZoomX": -145,
-    "ZoomY": -30
+    "ClipSVG": "M 183.8427 105.3143 L 156.2495 151.8386 C 153.7772 156.0072 153.7687 161.1481 156.2271 165.3244 L 183.6646 211.9368 C 186.123 216.1131 190.6752 218.6905 195.6059 218.6986 L 250.637 218.7863 C 255.5678 218.7944 260.128 216.231 262.6004 212.0627 L 290.1936 165.538 C 292.6663 161.3694 292.6748 156.229 290.2164 152.0523 L 262.7784 105.4398 C 260.3201 101.2635 255.7683 98.6861 250.8375 98.678 L 195.8064 98.5903 C 190.8757 98.5822 186.3154 101.1457 183.8427 105.3143 Z"
   },
-                     
+
   {
     "Id": 11,
     "GravingName": "BlackAkrilTornadoMedalEMPTYAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 12,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/empty.png"
+    "ClipSVG": ""
   },
   {
     "Id": 12,
     "GravingName": "LineMetalMedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 13,
-    "ClipSVG": "M 220.8851 29.0664 C 233.1284 50.367 245.3723 71.6672 257.6064 92.973 L 122.577 92.9734 C 110.3337 71.6728 98.09 50.3726 85.8557 29.0668 L 220.8851 29.0664 Z",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/LineMetalMedal/LineMetalMedalReversGraving25((.png",
-
-    "StartX": 25,
-    "StartY": -90,
-    "ZoomScale": 1.7,
-    "ZoomX": -37,
-    "ZoomY": 150
+    "ClipSVG": "M 220.8851 29.0664 C 233.1284 50.367 245.3723 71.6672 257.6064 92.973 L 122.577 92.9734 C 110.3337 71.6728 98.09 50.3726 85.8557 29.0668 L 220.8851 29.0664 Z"
+    
   },
   {
     "Id": 13,
     "GravingName": "MetalTornadoMedalEMPTYAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 14,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/empty.png"
+    "ClipSVG": ""
   },
   {
     "Id": 14,
     "GravingName": "FootBall1MedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 15,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall1/FootBall1AversGraving15(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 15,
     "GravingName": "FootBall2MedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 16,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/FootBall2/FootBall2AversGraving15(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 16,
     "GravingName": "VolleyBall1MedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 17,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/VolleyBall1/VolleyBall1AversGraving15(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 17,
     "GravingName": "Swimming1MedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 18,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming1/Swimming1AversGraving15(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 18,
     "GravingName": "Swimming2MedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 19,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Swimming2/Swimming2AversGraving15(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 19,
     "GravingName": "Fighting1MedalAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 20,
-    "ClipSVG": "",
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/SportMedals/Fighting1/Fighting1AversGraving15(1.png"
+    "ClipSVG": ""
   },
   {
     "Id": 20,
     "GravingName": "WB01statueAversGraving",
+    "SvgPath": "",
     "Price": 0,
     "ForWhatForm": 7,
-    "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statueAversGraving(1.png"
+    "ClipSVG": ""
   }
 ]
