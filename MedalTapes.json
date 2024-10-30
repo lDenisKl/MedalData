@@ -13,7 +13,7 @@
     "Id": 2,
     "Name": "Со своим дизайном 25 мм",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/tapePart.png",
-    "ClipSVG": "M 1.02 4393.42 L 1.02 25307.64 L 217949.49 25307.64 L 217949.49 4393.42 Z",
+    "ClipSVG": "M 525.5611 1 L 974.5371 1 L 1423.513 1 L 1499.0982 1 L 1499.0982 431.8355 L 1423.513 431.8355 L 974.5371 431.8355 L 525.5611 431.8355 L 76.5852 431.8355 L 1 431.8355 L 1 1 L 76.5852 1 Z",
     "PossibleForms": [ 2, 4, 6, 11, 12, 13, 14 ],
     "Design": true,
     "Width": 25,
