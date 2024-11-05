@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "Name": "WB01",
-    "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.",
+    "Details": "",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01/WB0115(1.png",
 
     "PossibleSizes": [ 1 ],
@@ -20,7 +20,7 @@
   {
     "Id": 2,
     "Name": "WB01metal",
-    "Details": "Унифицированные медали в комплекте с лентами и вашим текстом на задней стороне медалей.\nРазмер медали: 65 мм\nШирина ленты: 15 мм\nМатериал ленты: репс\nМасса медали: 75 гр\nТолщина медали: 2 мм",
+    "Details": "",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01BlackMetalSmall/WB01blackMetalSmall15(1.png",
 
     "PossibleSizes": [ 2, 3 ],
@@ -170,7 +170,7 @@
   {
     "Id": 10,
     "Name": "WB01 статуэтка акрил",
-    "Details": "Статуэтка из акрила унифицированная\nВысота - 180 мм\nМатериал - акрил + металлизированный пластик\nСпособ нанесения - гравировка лазерным станком",
+    "Details": "",
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WB01statue/WB01statue(1.png",
 
     "PossibleSizes": [ 4 ],
