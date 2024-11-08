@@ -77,6 +77,10 @@
   {
     "Id": 10,
     "AversName": "WreathMedalAvers",
+    "SvgPath": "M1127.2348 385.4423V745.9577C1127.2348 952.221 959.422 1120.0362 753.1563 1120.0362 751.718 1120.0362 750.2772 1120.0362 748.8389 1120.0362 542.5732 1120.0362 374.7604 952.221 374.7604 745.9577V385.4423C469.1622 285.6717 602.8031 223.4145 750.9976 223.4145 899.1921 223.4145 1032.8305 285.6717 1127.2348 385.4423Z",
+    "Color1": "#d6a22d",
+    "Color2": "#a7a9b1",
+    "Color3": "#ac5323",
     "Price": 0,
     "ForWhatForm": 9,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/WreathMedal/WreathMedalAvers(1.png"
