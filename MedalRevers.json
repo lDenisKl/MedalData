@@ -94,7 +94,10 @@
   {
     "Id": 11,
     "ReversName": "ColdMedalRevers",
-    "SvgPath": "",
+    "SvgPath": "M1166.7759 439.123H335.3124L242.7313 599.4861C427.118 918.8433 473.2089 998.6831 657.581 1318.0403H1241.8963C1337.9637 1151.6368 1361.9852 1110.0375 1458.0547 943.634 1360.9611 775.4686 1263.8674 607.2947 1166.7759 439.123Z",
+    "Color1": "#d6a22d",
+    "Color2": "#a7a9b1",
+    "Color3": "#ac5323",
     "Price": 0,
     "ForWhatForm": 10,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalAvers(1.png"

@@ -88,6 +88,10 @@
   {
     "Id": 11,
     "AversName": "ColdMedalAvers",
+    "SvgPath": "M335.2241 439.123H1166.6876L1259.2687 599.4861C1074.882 918.8433 1028.7911 998.6831 844.419 1318.0403H260.1037C164.0363 1151.6368 140.0148 1110.0375 43.9453 943.634 141.0389 775.4686 238.1326 607.2947 335.2241 439.123Z",
+    "Color1": "#d6a22d",
+    "Color2": "#a7a9b1",
+    "Color3": "#ac5323",
     "Price": 0,
     "ForWhatForm": 10,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/ColdMedal/ColdMedalAvers(1.png"
