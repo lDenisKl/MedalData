@@ -115,7 +115,10 @@
   {
     "Id": 11,
     "GravingName": "BlackAkrilTornadoMedalEMPTYAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 12,
     "ClipSVG": ""
@@ -123,16 +126,22 @@
   {
     "Id": 12,
     "GravingName": "LineMetalMedalAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "M1107.8449 142.2791C1169.4749 249.5007 1231.1069 356.7203 1292.6906 463.9681L612.9876 463.9701C551.3576 356.7485 489.7256 249.5288 428.1419 142.2811ZM1102.0284 152.3319 445.5072 152.3339C503.2467 252.8764 561.0265 353.3968 618.8042 453.9173L1275.3254 453.9153C1217.5858 353.3727 1159.8061 252.8523 1102.0284 152.3319Z",
+    "SvgPath2": "M1107.8449 142.2791C1169.4749 249.5007 1231.1069 356.7203 1292.6906 463.9681L612.9876 463.9701C551.3576 356.7485 489.7256 249.5288 428.1419 142.2811ZM1102.0284 152.3319 445.5072 152.3339C503.2467 252.8764 561.0265 353.3968 618.8042 453.9173L1275.3254 453.9153C1217.5858 353.3727 1159.8061 252.8523 1102.0284 152.3319Z",
+    "SvgPath3": "M1107.8449 142.2791C1169.4749 249.5007 1231.1069 356.7203 1292.6906 463.9681L612.9876 463.9701C551.3576 356.7485 489.7256 249.5288 428.1419 142.2811ZM1102.0284 152.3319 445.5072 152.3339C503.2467 252.8764 561.0265 353.3968 618.8042 453.9173L1275.3254 453.9153C1217.5858 353.3727 1159.8061 252.8523 1102.0284 152.3319Z",
+    "Color": "#434241",
     "Price": 0,
     "ForWhatForm": 13,
-    "ClipSVG": "M 220.8851 29.0664 C 233.1284 50.367 245.3723 71.6672 257.6064 92.973 L 122.577 92.9734 C 110.3337 71.6728 98.09 50.3726 85.8557 29.0668 L 220.8851 29.0664 Z"
-    
+    "ClipSVG": "M1102.0284 152.3319 445.5072 152.3339C503.2467 252.8764 561.0265 353.3968 618.8042 453.9173L1275.3254 453.9153C1217.5858 353.3727 1159.8061 252.8523 1102.0284 152.3319Z"
+
   },
   {
     "Id": 13,
     "GravingName": "MetalTornadoMedalEMPTYAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 14,
     "ClipSVG": ""
@@ -140,7 +149,10 @@
   {
     "Id": 14,
     "GravingName": "FootBall1MedalAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 15,
     "ClipSVG": ""
@@ -148,7 +160,10 @@
   {
     "Id": 15,
     "GravingName": "FootBall2MedalAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 16,
     "ClipSVG": ""
@@ -156,7 +171,10 @@
   {
     "Id": 16,
     "GravingName": "VolleyBall1MedalAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 17,
     "ClipSVG": ""
@@ -164,7 +182,10 @@
   {
     "Id": 17,
     "GravingName": "Swimming1MedalAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 18,
     "ClipSVG": ""
@@ -172,7 +193,10 @@
   {
     "Id": 18,
     "GravingName": "Swimming2MedalAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 19,
     "ClipSVG": ""
@@ -180,7 +204,10 @@
   {
     "Id": 19,
     "GravingName": "Fighting1MedalAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 20,
     "ClipSVG": ""
@@ -188,7 +215,10 @@
   {
     "Id": 20,
     "GravingName": "WB01statueAversGraving",
-    "SvgPath": "",
+    "SvgPath1": "",
+    "SvgPath2": "",
+    "SvgPath3": "",
+    "Color": "",
     "Price": 0,
     "ForWhatForm": 7,
     "ClipSVG": ""
