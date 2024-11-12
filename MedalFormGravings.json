@@ -102,7 +102,7 @@
     "Id": 12,
     "FormGravingName": "BlackAkrilTornadoMedalEMPTYFormGraving",
     "SvgPath": "",
-    "Color": "",
+    "Color": "#434241",
     "Price": 0,
     "ForWhatForm": 12,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/empty.png"
@@ -120,7 +120,7 @@
     "Id": 14,
     "FormGravingName": "MetalTornadoMedalEMPTYFormGraving",
     "SvgPath": "",
-    "Color": "",
+    "Color": "#434241",
     "Price": 0,
     "ForWhatForm": 14,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/MetalTornadoMedal/empty.png"

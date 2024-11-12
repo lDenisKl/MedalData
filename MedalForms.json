@@ -225,8 +225,8 @@
     "Color3": "#2B2A29",
     "Price": 0,
     "Multiplier": 1,
-    "MinFontSize": 0,
-    "MaxFontSize": 0,
+    "MinFontSize": 23,
+    "MaxFontSize": 90,
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/BlackAkrilTornadoMedal/BlackAkrilTornadoMedalForm25(1.png",
     "RealWidth": 65,
     "RealHeight": 79
