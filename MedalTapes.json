@@ -35,7 +35,7 @@
     "Image": "https://raw.githubusercontent.com/lDenisKl/MedalData/main/Images/mt.png",
     "ClipSVG": "None",
     "PossibleForms": [ 7 ],
-    "Design": true,
+    "Design": false,
     "Width": 25,
     "Price": 0
   }
