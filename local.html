@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Editor</title>
+
+    <style id="fonts">
+
+    </style>
+    <style id="styles">
+        html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        body {
+
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            touch-action: pinch-zoom;
+        }
+
+        svg {
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .unselectedDefault {
+            pointer-events: none;
+            opacity: 1;
+        }
+
+        .selected {
+            opacity: 1;
+            touch-action: pan-x pan-y pinch-zoom;
+        }
+
+        .unselected {
+            opacity: 0.5;
+            pointer-events: none;
+            filter: grayscale(70%) brightness(80%) contrast(120%);
+        }
+
+        .deleted {
+            pointer-events: none;
+        }
+    </style>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.12.11/paper-full.js"></script>
+    <script type="text/javascript">
+
+
+        function getTranslateValues(element) {
+            const transform = element.getAttribute('transform');
+            if (!transform) {
+                return { x1: 0, y1: 0 };
+            }
+            const translateRegex = /translate\(\s*([-\d.]+)[,\s]+([-\d.]+)\s*\)/;
+            const matches = transform.match(translateRegex);
+            if (matches) {
+                return {
+                    x1: parseFloat(matches[1]),
+                    y1: parseFloat(matches[2])
+                };
+            }
+            return { x1: 0, y1: 0 };
+        }
+
+        function getSVGCoordinates(svg, clientX, clientY) {
+            const pt = svg.createSVGPoint();
+            pt.x = clientX;
+            pt.y = clientY;
+            return pt.matrixTransform(svg.getScreenCTM().inverse());
+        }
+
+        paper.install(window);
+
+        window.addEventListener('load', (event) => {
+            paper.setup('medalCanvas');
+
+        });
+
+        let isDragging = false;
+        var offsetX = 0;
+        var offsetY = 0;
+        let startTranslateX = 0, startTranslateY = 0;
+
+        function handleGroupTouchStart(event) {
+            if (event.touches.length > 1) return;
+            isDragging = true;
+            startMouseX = event.touches[0].clientX;
+            startMouseY = event.touches[0].clientY;
+            const svg = document.getElementsByClassName('selected')[0].children[0].ownerSVGElement;
+            const { x, y } = getSVGCoordinates(svg, event.touches[0].clientX, event.touches[0].clientY);
+            const { x1, y1 } = getTranslateValues(document.getElementsByClassName('selected')[0].children[0]);
+            startTranslateX = x1;
+            startTranslateY = y1;
+            offsetX = x - startTranslateX;
+            offsetY = y - startTranslateY;
+        };
+
+        function handleGroupTouchMove(event) {
+            if (event.touches.length > 1) return;
+            if (!isDragging) return;
+            const svg = document.getElementsByClassName('selected')[0].children[0].ownerSVGElement;
+            const { x, y } = getSVGCoordinates(svg, event.touches[0].clientX, event.touches[0].clientY);
+            const newX = x - offsetX;
+            const newY = y - offsetY;
+            let scale = 1;
+            const transform = document.getElementsByClassName('selected')[0].children[0].getAttribute('transform') || '';
+            const scaleMatch = transform.match(/scale\(([^)]+)\)/);
+            if (scaleMatch) {
+                scale = parseFloat(scaleMatch[1]);
+            }
+            document.getElementsByClassName('selected')[0].children[0].setAttribute('transform', `translate(${newX}, ${newY}) scale(${scale})`);
+            positionMessage(document.getElementsByClassName('selected')[0].getAttribute('id'), newX, newY, scale, document.getElementsByClassName('selected')[0].children[0].innerHTML);
+        }
+
+        function handleGroupTouchEnd(event) {
+            isDragging = false;
+        }
+
+        function selectFont(id, fontFamily) {
+            let element = document.getElementById(id).children[0];
+            element.children[0].setAttribute('font-family', fontFamily);
+        }
+
+        function configureLayouts(layouts, fonts) {
+
+            const styleElement = document.getElementById('fonts');
+            for (let i = 0; i < fonts.length; ++i) {
+                styleElement.innerHTML += `${fonts[i].url}`;
+            }
+            addLayer(layouts[0], layouts.length, false, layouts[0].editingZoneId);
+            for (let i = 1; i < layouts.length; ++i) {
+                addLayer(layouts[i], layouts.length, false, layouts[i].editingZoneId);
+            }
+            getWholeSvg();
+        }
+
+        function addLayer(layout, side, isAddingLayer, editingZoneId) { // между собой места для редактирования не меняем, так что опираемся на Z индекс
+            try {
+                let id = -1;
+                if (isAddingLayer == true) {
+                    id = layout.z;
+                }
+                else {
+                    id = side - layout.z - 1;
+                }
+                var ns = "http://www.w3.org/2000/svg";
+                let svgElement = document.getElementById(`mainSvg`);
+                let defsElement = document.getElementById('defs');
+
+                // clip path
+                let clipPath = document.createElementNS(ns, "clipPath");
+                clipPath.setAttribute("id", `${id}Mask`);
+                let clippingPath = document.createElementNS(ns, "path");
+                let clipSvgObject = new CompoundPath(layout.clipSvg);
+                let clipSvgPath = layout.clipSvg;
+                if (editingZoneId != -1) {
+                    const { x1, y1 } = getTranslateValues(document.getElementById(side - editingZoneId - 1).children[0]);
+                    clipSvgPath = clipSvgObject.translate(new Point(x1, y1)).pathData;
+                }
+
+                editingZoneId = side - 1 - editingZoneId;
+                let editingZone = document.getElementById(editingZoneId);
+                clippingPath.setAttribute("d", clipSvgPath);
+                defsElement.appendChild(clipPath);
+                clipPath.appendChild(clippingPath);
+
+                // common layer group
+                let superGroup = document.createElementNS(ns, "g");
+                superGroup.setAttribute('style', `clip-path: url(#${id}Mask);`);
+                let group = document.createElementNS(ns, "g");
+                superGroup.appendChild(group);
+                if (layout.isDeleted == true) {
+                    superGroup.classList.add('deleted');
+                    superGroup.style.opacity = 0;
+                    superGroup.setAttribute("id", `${id}`);
+                }
+                else {
+                    superGroup.setAttribute("class", `unselectedDefault`);
+                    superGroup.setAttribute("id", `${id}`);
+                }
+                group.setAttribute('transform', `translate(${layout.x}, ${layout.y}) scale(${layout.scale})`);
+                if (isAddingLayer == false) {
+                    if (side - layout.z - 1 == side - 1) {
+                        svgElement.appendChild(superGroup);
+                    }
+                    else {
+                        let lastLayer = document.getElementById(`${id + 1}`);
+                        lastLayer.insertAdjacentElement("afterend", superGroup);
+                    }
+                }
+                else {
+                    let lastLayer = document.getElementById(`${id - 1}`);
+                    lastLayer.insertAdjacentElement("beforebegin", superGroup);
+                }
+                if (layout.type == 5) { // text layer
+                    group.innerHTML = layout.svgPath;
+                    const text = group.children[0];
+                    //group.setAttribute('transform', `scale(1) translate(${new CompoundPath(document.getElementById(`${id}Mask`).children[0].getAttribute('d')).bounds.center.x}, ${new CompoundPath(document.getElementById(`${id}Mask`).children[0].getAttribute('d')).bounds.center.y})`);
+                    text.setAttribute('fill', layout.color);
+                    text.setAttribute('font-size', layout.fontSize);
+                    text.setAttribute('font-family', layout.fontFamily);
+                    text.setAttribute('style', 'user-select: none;');
+                    text.innerHTML = layout.text;
+                    if (layout.isEditablePosition == true) {
+                        superGroup.addEventListener('touchstart', handleGroupTouchStart);
+                        superGroup.addEventListener('touchmove', handleGroupTouchMove);
+                        superGroup.addEventListener('touchend', handleGroupTouchEnd);
+                    }
+
+                    setText(id, layout.text);
+                }
+                else if (layout.type == 6) { // image layer
+                    group.innerHTML = layout.svgPath;
+
+                    const img = group.children[0];
+                    img.setAttribute('x', new CompoundPath(editingZone.children[0].getAttribute('d')).position.x);
+                    img.setAttribute('y', new CompoundPath(editingZone.children[0].getAttribute('d')).position.y);
+                    setScale(id, layout.scale);
+                    if (layout.isEditablePosition == true) {
+                        superGroup.addEventListener('touchstart', handleGroupTouchStart);
+                        superGroup.addEventListener('touchend', handleGroupTouchEnd);
+                        superGroup.addEventListener('touchmove', handleGroupTouchMove);
+                    }
+                }
+                else if (layout.type == 7) {
+                    group.innerHTML = layout.svgPath;
+
+                    let pathObject = document.getElementById(`${id}`).children[0].children[0];
+                    let pathPaperObject = new CompoundPath(layout.svgPath);
+                    let zoneObject = new CompoundPath(editingZone.children[0].getAttribute('d'));
+                    pathPaperObject.translate(new Point(zoneObject.position.x,
+                        zoneObject.position.y));
+                    pathObject.setAttribute("d", pathPaperObject.pathData);
+                    messageLog(layout.svgPath);
+                    pathObject.setAttribute("fill", layout.color);
+                    group.appendChild(pathObject);
+                }
+                else { // path(4) layer or form(1) layer
+                    group.innerHTML = layout.svgPath;
+
+                    if (isAddingLayer == true) {
+                        let pathObject = document.getElementById(`${id}`).children[0].children[0];
+                        let pathPaperObject = new CompoundPath(layout.svgPath);
+                        let zoneObject = new CompoundPath(editingZone.children[0].getAttribute('d'));
+                        pathPaperObject.translate(new Point(zoneObject.position.x - pathPaperObject.bounds.width / 2,
+                            zoneObject.position.y - pathPaperObject.bounds.height / 2));
+                        pathObject.setAttribute("d", pathPaperObject.pathData);
+                        pathObject.setAttribute("fill", layout.color);
+                        group.appendChild(pathObject);
+                    }
+                    if (layout.type == 1) {
+                        document.getElementById("mainSvg").setAttribute('viewBox', `0 0 ${new CompoundPath(layout.clipSvg).bounds.width} ${new CompoundPath(layout.clipSvg).bounds.height}`);
+                    }
+                    if (layout.isEditablePosition == false) {
+                        superGroup.addEventListener('touchstart', null);
+                        superGroup.addEventListener('touchend', null);
+                        superGroup.addEventListener('touchmove', null);
+                    }
+                    else {
+                        superGroup.addEventListener('touchstart', handleGroupTouchStart);
+                        superGroup.addEventListener('touchend', handleGroupTouchEnd);
+                        superGroup.addEventListener('touchmove', handleGroupTouchMove);
+                    }
+                }
+            }
+            catch (error) {
+                console.log(error);
+            }
+        }
+
+        function setFontSize(id, newFontSize) {
+            let svgElement = document.getElementById('mainSvg');
+            let group = document.getElementById(id).children[0];
+            group.children[0].setAttribute('font-size', newFontSize);
+        }
+
+        function setText(id, newText) {
+            const lines = newText.split('|');
+            let group = document.getElementById(id).children[0];
+            const svgText = group.children[0];
+            svgText.innerHTML = '';
+
+            lines.forEach((line, index) => {
+                //messageLog(line);
+                const tspan = document.createElementNS('http://www.w3.org/2000/svg', 'tspan');
+                tspan.setAttribute('x', '10'); // Горизонтальное смещение
+                tspan.setAttribute('dy', index === 0 ? '0' : '1.2em'); // Вертикальное смещение (1.2em — высота строки)
+                tspan.textContent = line; // Текст строки
+                svgText.appendChild(tspan); // Добавляем <tspan> в <text>
+            });
+            const { x1, y1 } = getTranslateValues(document.getElementById(id).children[0]);
+            positionMessage(document.getElementsByClassName('selected')[0].getAttribute('id'), x1, y1, 1, document.getElementsByClassName('selected')[0].children[0].innerHTML);
+
+            // let svgElement = document.getElementById('mainSvg');
+            // let group = document.getElementById(id).children[0];
+            // group.children[0].innerHTML = newText;
+        }
+
+        function setImageHeight(id, newHeight) {
+            let svgElement = document.getElementById('mainSvg');
+            let group = document.getElementById(id).children[0];
+            if (group != null) {
+                const bbox = group.children[0].getBBox();
+                var scale = newHeight / bbox.height;
+                var width = bbox.width * scale;
+                group.children[0].setAttribute('width', `${width}`);
+                group.children[0].setAttribute('height', `${newHeight}`);
+            }
+        }
+
+        function selectLogoPlace(id, logoPlace, editingZoneChildren) {
+            let logoPlaceObject = new CompoundPath(logoPlace.svgPath);
+            let svgElement = document.getElementById('mainSvg');
+            let group = document.getElementById(id).children[0];
+            let logoPathElement = group.children[0];
+            logoPathElement.setAttribute('d', logoPlaceObject.pathData);
+            logoPathElement.setAttribute('fill', logoPlace.color);
+
+            // for(let i = 0; i < editingZoneChildren.length; i++) {
+            //     const clipPathValue = document.getElementById(editingZoneChildren[i].id).style.clipPath;
+            //     const clipPathId = clipPathValue.match(/url\(["']?#([^"')]+)["']?\)/)[1];
+            //     document.getElementById(clipPathId).children[0].setAttribute('d', logoPlace.svgPath);
+            // }
+        }
+
+        function setScale(id, newScale) {
+            let svgElement = document.getElementById('mainSvg');
+            let group = document.getElementById(id).children[0];
+            const transform = group.getAttribute('transform') || '';
+            let translate = { x: 0, y: 0 };
+            let currentScale = 1;
+            const translateMatch = transform.match(/translate\(([^,]+),([^)]+)\)/);
+            if (translateMatch) {
+                translate.x = parseFloat(translateMatch[1]);
+                translate.y = parseFloat(translateMatch[2]);
+            }
+            group.removeAttribute('transform');
+            group.setAttribute(
+                'transform',
+                `translate(${translate.x}, ${translate.y}) scale(${newScale})`
+            );
+        }
+
+        function setHeight(id, newHeight) {
+            let svgElement = document.getElementById('mainSvg');
+            let group = document.getElementById(id).children[0];
+            const transform = group.getAttribute('transform') || '';
+            let translate = { x: 0, y: 0 };
+            let currentScale = 1;
+            const translateMatch = transform.match(/translate\(([^,]+),([^)]+)\)/);
+            if (translateMatch) {
+                translate.x = parseFloat(translateMatch[1]);
+                translate.y = parseFloat(translateMatch[2]);
+            }
+            group.removeAttribute('transform');
+            const bbox = group.getBBox();
+            const currentHeight = bbox.height;
+            const scaleFactor = newHeight / currentHeight;
+            group.setAttribute(
+                'transform',
+                `translate(${translate.x}, ${translate.y}) scale(${scaleFactor})`
+            );
+        }
+
+        function setLayerVisibility(layerId) {
+            let svgElement = document.getElementById('mainSvg');
+            const computedStyles = window.getComputedStyle(document.getElementById(layerId));
+            const opacity = parseFloat(computedStyles.opacity);
+            if (opacity > 0) {
+                document.getElementById(layerId).style.opacity = 0;
+            }
+            else {
+                document.getElementById(layerId).style.opacity = null;
+            }
+        }
+
+        function setObjectColor(id, color) {
+            let svgElement = document.getElementById('mainSvg');
+            let group = document.getElementById(id).children[0];
+            group.children[0].setAttribute('fill', color);
+        }
+
+        function setTextColor(id, color) {
+            let svgElement = document.getElementById('mainSvg');
+            let group = document.getElementById(id).children[0];
+            group.children[0].setAttribute('fill', color);
+        }
+
+        function selectImage(id, editingZoneId, uri) {
+            let svgElement = document.getElementById('mainSvg');
+            let group = document.getElementById(id).children[0];
+            group.children[0].setAttribute('href', uri);
+            group.children[0].onload = function () {
+                centerLayer(id, editingZoneId, 6);
+            }
+        }
+
+        function deleteLayer(layerId) {
+            let svgElement = document.getElementById('mainSvg');
+            document.getElementById(layerId).classList.add('deleted');
+            document.getElementById(layerId).style.opacity = 0;
+        }
+
+        function centerLayer(id, editingZoneId, type) {
+            // центрует в зависимости от размеров редактируемой зоны. 
+            let svgElement = document.getElementById('mainSvg');
+            let superGroup = document.getElementById(id);
+            const { x1, y1 } = getTranslateValues(document.getElementById(editingZoneId).children[0]);
+            const clipPathValue = superGroup.style.clipPath;
+            const clipPathId = clipPathValue.match(/url\(["']?#([^"')]+)["']?\)/)[1];
+            let cen = new CompoundPath(svgElement.getElementById(`${clipPathId}`).children[0].getAttribute('d')).bounds.center;
+            let groupBBox = superGroup.children[0].getBBox();
+            let height = groupBBox.height;
+            let width = groupBBox.width;
+            if (type == 6) {
+                groupBBox = superGroup.children[0].children[0].getBBox();
+                width = superGroup.children[0].children[0].getBBox().width;
+            }
+            const transform = superGroup.children[0].getAttribute('transform') || '';
+            const scaleMatch = transform.match(/scale\(([^)]+)\)/);
+            let scale = 1;
+            if (scaleMatch) {
+                scale = parseFloat(scaleMatch[1]);
+            }
+            const groupCenterX = groupBBox.x + width / 2 * scale;
+            const groupCenterY = groupBBox.y + height / 2 * scale;
+            messageLog(clipPathId);
+            const offsetX = cen.x - groupCenterX;
+            const offsetY = cen.y - groupCenterY;
+            superGroup.children[0].setAttribute('transform', `translate(${offsetX}, ${offsetY}) scale(${scale})`);
+            positionMessage(id, offsetX, offsetY, scale, superGroup.children[0].innerHTML);
+        }
+
+        function selectLayer(layerId) {
+            let svgElement = document.getElementById('mainSvg');
+            for (let i = 0; i < svgElement.children.length; ++i) {
+                if (svgElement.children[i].classList.contains("deleted") == false) {
+                    svgElement.children[i].setAttribute('class', 'unselected');
+                }
+            }
+            svgElement.getElementById(layerId).setAttribute('class', 'selected');
+        }
+
+        function unselectLayers() {
+            let svgElement = document.getElementById(`mainSvg`);
+            for (let i = 0; i < svgElement.children.length; ++i) {
+                if (svgElement.children[i].classList.contains("deleted") == false) {
+                    svgElement.children[i].setAttribute('class', 'unselectedDefault');
+                }
+            }
+        }
+
+
+
+
+        function swapGroupsById(firstGroupId, shift) {
+            const group1 = document.getElementById(`${firstGroupId}`);
+            const group2 = document.getElementById(`${firstGroupId + shift}`);
+
+
+            const parent = group1.parentElement;
+
+            const temp1 = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+            const temp2 = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+
+            parent.insertBefore(temp1, group1);
+            parent.insertBefore(temp2, group2);
+
+            parent.insertBefore(group1, temp2);
+            parent.insertBefore(group2, temp1);
+
+            parent.removeChild(temp1);
+            parent.removeChild(temp2);
+
+            group2.setAttribute('id', firstGroupId);
+            group1.setAttribute('id', firstGroupId + shift);
+        }
+
+        function messageLog(msg) {
+            var svgString = msg;
+            window.ReactNativeWebView.postMessage(JSON.stringify({
+                type: 'svgget',
+                payload: svgString
+            }));
+            return msg;
+        }
+
+
+        function message(msg) {
+            var svgString = msg;
+            window.ReactNativeWebView.postMessage(JSON.stringify({
+                type: 'mainSvg',
+                payload: svgString
+            }));
+            return msg;
+        }
+
+        function positionMessage(id, x, y, scale, pathData) {
+            var svgString = id + `|${x}|${y}|${scale}|${pathData}`;
+            window.ReactNativeWebView.postMessage(JSON.stringify({
+                type: 'changePosition',
+                payload: svgString
+            }));
+            return svgString;
+        }
+
+        function getWholeSvg() {
+            let svgElement = document.getElementById('mainSvg');
+            var svgString = svgElement.outerHTML;//paper.project.exportSVG({asString: true});
+            window.ReactNativeWebView.postMessage(JSON.stringify({
+                type: 'mainSvg',
+                payload: svgString
+            }));
+            return svgString;
+        }
+
+        function getSvg() {
+            let svgElement = document.getElementById('mainSvg');
+            var svgString = svgElement.outerHTML;//paper.project.exportSVG({asString: true});
+            window.ReactNativeWebView.postMessage(JSON.stringify({
+                type: 'svgget',
+                payload: svgString
+            }));
+            return svgString;
+        }
+
+    </script>
+</head>
+
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000"
+        version="1.1" id="mainSvg">
+        <defs id="defs">
+
+        </defs>
+    </svg>
+
+    <!-- <canvas style="border: 1px solid red; height:100%" id="medalCanvas" resize></canvas> -->
+</body>
+
+</html>
